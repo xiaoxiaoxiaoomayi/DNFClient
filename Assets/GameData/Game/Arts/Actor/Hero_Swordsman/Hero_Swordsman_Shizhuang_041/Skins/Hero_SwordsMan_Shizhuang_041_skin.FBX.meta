@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 080bf0f16d36fd24884102c355bbbd72
+timeCreated: 1555748940
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger01
+    100014: Bip001 L Finger02
+    100016: Bip001 L Finger1
+    100018: Bip001 L Finger11
+    100020: Bip001 L Finger12
+    100022: Bip001 L Finger2
+    100024: Bip001 L Finger21
+    100026: Bip001 L Finger22
+    100028: Bip001 L Finger3
+    100030: Bip001 L Finger31
+    100032: Bip001 L Finger32
+    100034: Bip001 L Finger4
+    100036: Bip001 L Finger41
+    100038: Bip001 L Finger42
+    100040: Bip001 L Foot
+    100042: Bip001 L Forearm
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L UpperArm
+    100052: Bip001 Neck
+    100054: Bip001 Pelvis
+    100056: Bip001 R Calf
+    100058: Bip001 R Clavicle
+    100060: Bip001 R Foot
+    100062: Bip001 R Forearm
+    100064: Bip001 R Hand
+    100066: Bip001 R Thigh
+    100068: Bip001 R Toe0
+    100070: Bip001 R UpperArm
+    100072: Bip001 Spine
+    100074: Bip001 Spine1
+    100076: Bip001 Spine2
+    100078: Body
+    100080: Crotch
+    100082: Hero_SwordsMan_Shizhuang_041_Body
+    100084: Hero_SwordsMan_Shizhuang_041_Head
+    100086: Hero_SwordsMan_Shizhuang_041_Headwear
+    100088: Hero_SwordsMan_Shizhuang_041_Jewelry
+    100090: Hero_SwordsMan_Shizhuang_041_Pant
+    100092: //RootNode
+    100094: LClavicle
+    100096: LFoot
+    100098: LForearm
+    100100: LHand
+    100102: LWeapon
+    100104: Orign
+    100106: OrignBuff
+    100108: OverHead
+    100110: RClavicle
+    100112: RFoot
+    100114: RForearm
+    100116: RHand
+    100118: RWeapon
+    100120: Swordsman_Bone01
+    100122: Swordsman_Bone02
+    100124: Swordsman_Bone03
+    100126: Swordsman_Bone04
+    100128: Swordsman_Bone05
+    100130: Swordsman_Bone06
+    100132: Swordsman_Bone07
+    100134: Swordsman_Bone08
+    100136: Swordsman_Bone09
+    100138: Swordsman_Bone10
+    100140: Swordsman_Bone11
+    100142: Swordsman_Bone12
+    100144: Swordsman_Bone13
+    100146: Swordsman_Bone16
+    100148: Swordsman_Bone17
+    100150: Swordsman_Bone18
+    100152: Swordsman_Bone19
+    100154: Swordsman_Bone36
+    100156: Swordsman_Bone37
+    100158: Swordsman_Bone38
+    100160: Swordsman_Bone40
+    100162: Swordsman_Bone41
+    100164: Swordsman_Bone42
+    100166: Swordsman_Bone43
+    100168: Swordsman_Bone44
+    100170: Swordsman_Bone45
+    100172: Swordsman_Bone46
+    100174: Swordsman_Bone47
+    100176: Swordsman_Bone48
+    100178: Swordsman_Bone49
+    100180: Swordsman_Bone50
+    100182: Swordsman_Bone51
+    100184: Swordsman_BoneAll
+    400000: Back
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger01
+    400014: Bip001 L Finger02
+    400016: Bip001 L Finger1
+    400018: Bip001 L Finger11
+    400020: Bip001 L Finger12
+    400022: Bip001 L Finger2
+    400024: Bip001 L Finger21
+    400026: Bip001 L Finger22
+    400028: Bip001 L Finger3
+    400030: Bip001 L Finger31
+    400032: Bip001 L Finger32
+    400034: Bip001 L Finger4
+    400036: Bip001 L Finger41
+    400038: Bip001 L Finger42
+    400040: Bip001 L Foot
+    400042: Bip001 L Forearm
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L UpperArm
+    400052: Bip001 Neck
+    400054: Bip001 Pelvis
+    400056: Bip001 R Calf
+    400058: Bip001 R Clavicle
+    400060: Bip001 R Foot
+    400062: Bip001 R Forearm
+    400064: Bip001 R Hand
+    400066: Bip001 R Thigh
+    400068: Bip001 R Toe0
+    400070: Bip001 R UpperArm
+    400072: Bip001 Spine
+    400074: Bip001 Spine1
+    400076: Bip001 Spine2
+    400078: Body
+    400080: Crotch
+    400082: Hero_SwordsMan_Shizhuang_041_Body
+    400084: Hero_SwordsMan_Shizhuang_041_Head
+    400086: Hero_SwordsMan_Shizhuang_041_Headwear
+    400088: Hero_SwordsMan_Shizhuang_041_Jewelry
+    400090: Hero_SwordsMan_Shizhuang_041_Pant
+    400092: //RootNode
+    400094: LClavicle
+    400096: LFoot
+    400098: LForearm
+    400100: LHand
+    400102: LWeapon
+    400104: Orign
+    400106: OrignBuff
+    400108: OverHead
+    400110: RClavicle
+    400112: RFoot
+    400114: RForearm
+    400116: RHand
+    400118: RWeapon
+    400120: Swordsman_Bone01
+    400122: Swordsman_Bone02
+    400124: Swordsman_Bone03
+    400126: Swordsman_Bone04
+    400128: Swordsman_Bone05
+    400130: Swordsman_Bone06
+    400132: Swordsman_Bone07
+    400134: Swordsman_Bone08
+    400136: Swordsman_Bone09
+    400138: Swordsman_Bone10
+    400140: Swordsman_Bone11
+    400142: Swordsman_Bone12
+    400144: Swordsman_Bone13
+    400146: Swordsman_Bone16
+    400148: Swordsman_Bone17
+    400150: Swordsman_Bone18
+    400152: Swordsman_Bone19
+    400154: Swordsman_Bone36
+    400156: Swordsman_Bone37
+    400158: Swordsman_Bone38
+    400160: Swordsman_Bone40
+    400162: Swordsman_Bone41
+    400164: Swordsman_Bone42
+    400166: Swordsman_Bone43
+    400168: Swordsman_Bone44
+    400170: Swordsman_Bone45
+    400172: Swordsman_Bone46
+    400174: Swordsman_Bone47
+    400176: Swordsman_Bone48
+    400178: Swordsman_Bone49
+    400180: Swordsman_Bone50
+    400182: Swordsman_Bone51
+    400184: Swordsman_BoneAll
+    4300000: Hero_SwordsMan_Shizhuang_041_Head
+    4300002: Hero_SwordsMan_Shizhuang_041_Headwear
+    4300004: Hero_SwordsMan_Shizhuang_041_Pant
+    4300006: Hero_SwordsMan_Shizhuang_041_Jewelry
+    4300008: Hero_SwordsMan_Shizhuang_041_Body
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Hero_SwordsMan_Shizhuang_041_Body
+    13700002: Hero_SwordsMan_Shizhuang_041_Head
+    13700004: Hero_SwordsMan_Shizhuang_041_Headwear
+    13700006: Hero_SwordsMan_Shizhuang_041_Jewelry
+    13700008: Hero_SwordsMan_Shizhuang_041_Pant
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

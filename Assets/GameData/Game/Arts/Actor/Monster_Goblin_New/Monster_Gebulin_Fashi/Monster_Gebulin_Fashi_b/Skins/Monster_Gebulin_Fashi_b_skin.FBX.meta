@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 578f9194b178d594d8373483e1d01634
+timeCreated: 1568190934
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger1
+    100014: Bip001 L Finger11
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L UpperArm
+    100022: Bip001 Neck
+    100024: Bip001 Pelvis
+    100026: Bip001 R Clavicle
+    100028: Bip001 R Finger0
+    100030: Bip001 R Finger01
+    100032: Bip001 R Finger1
+    100034: Bip001 R Finger11
+    100036: Bip001 R Forearm
+    100038: Bip001 R Hand
+    100040: Bip001 R UpperArm
+    100042: Bip001 Spine
+    100044: Bip001 Spine1
+    100046: Body
+    100048: Bone001
+    100050: Bone002
+    100052: Bone003
+    100054: Bone005
+    100056: Bone006
+    100058: Bone007
+    100060: Bone009
+    100062: Bone011
+    100064: Bone013
+    100066: Bone014
+    100068: Bone015
+    100070: Bone017
+    100072: Bone018
+    100074: Bone019
+    100076: Crotch
+    100078: LClavicle
+    100080: LHand
+    100082: LWeapon
+    100084: Monster_Gebulin_Fashi_b
+    100086: //RootNode
+    100088: Monster_Gebulin_Fashi_BoneAll
+    100090: Orign
+    100092: OrignBuff
+    100094: OverHead
+    100096: RClavicle
+    100098: RHand
+    100100: RWeapon
+    400000: Back
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger1
+    400014: Bip001 L Finger11
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L UpperArm
+    400022: Bip001 Neck
+    400024: Bip001 Pelvis
+    400026: Bip001 R Clavicle
+    400028: Bip001 R Finger0
+    400030: Bip001 R Finger01
+    400032: Bip001 R Finger1
+    400034: Bip001 R Finger11
+    400036: Bip001 R Forearm
+    400038: Bip001 R Hand
+    400040: Bip001 R UpperArm
+    400042: Bip001 Spine
+    400044: Bip001 Spine1
+    400046: Body
+    400048: Bone001
+    400050: Bone002
+    400052: Bone003
+    400054: Bone005
+    400056: Bone006
+    400058: Bone007
+    400060: Bone009
+    400062: Bone011
+    400064: Bone013
+    400066: Bone014
+    400068: Bone015
+    400070: Bone017
+    400072: Bone018
+    400074: Bone019
+    400076: Crotch
+    400078: LClavicle
+    400080: LHand
+    400082: LWeapon
+    400084: Monster_Gebulin_Fashi_b
+    400086: //RootNode
+    400088: Monster_Gebulin_Fashi_BoneAll
+    400090: Orign
+    400092: OrignBuff
+    400094: OverHead
+    400096: RClavicle
+    400098: RHand
+    400100: RWeapon
+    4300000: Monster_Gebulin_Fashi_b
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Monster_Gebulin_Fashi_b
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

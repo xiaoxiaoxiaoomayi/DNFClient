@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Monster_Gebulin_Gao
+  m_Shader: {fileID: 4800000, guid: 041df77dcf1a61d48a46305093344054, type: 3}
+  m_ShaderKeywords: _NORMALMAP
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: fcb3ef33e31959045a9c746c394ba6b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Bump:
+        m_Texture: {fileID: 2800000, guid: 4df7232c4c250b74d949925ca511bbd4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LitSphere:
+        m_Texture: {fileID: 2800000, guid: ccd17a9149fb3e448886daa6509749e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Param:
+        m_Texture: {fileID: 2800000, guid: 8c39933efcefe7241a7fab28bd3b716f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 9feecab8c4d16af4d9da589409e4927b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sp_test:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientIntensity: 0.7
+    - _Bark_value: 0
+    - _BumpScale: 1
+    - _ColorStrength: 0.428
+    - _Cutoff: 0.5
+    - _Dark_value: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Fre: 1.3
+    - _FresnelFactor: 0.1
+    - _FresnelOffset: -0.172
+    - _FresnelPow: 2.81
+    - _Gloss: 0.2
+    - _Glossiness: 0.5
+    - _LightAttenurate: 0
+    - _LightExposure: 1
+    - _LightIntensity: 3.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ReflectionIntensity: 1
+    - _Reflection_V: 0
+    - _SP: 1.67
+    - _SpecularFactor: 4.6
+    - _SpecularPow: 3.83
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _node_1907: 0
+    - _node_3026: 0
+    m_Colors:
+    - _AmbientColor: {r: 0.64705884, g: 0.64705884, b: 0.64705884, a: 0.35}
+    - _Color: {r: 0.72794116, g: 0.44739586, b: 0.3211505, a: 1}
+    - _Dark_Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _DummyLightDir: {r: 0.707, g: 0.707, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Fre_Color: {r: 0.07569203, g: 0.40776768, b: 0.7352941, a: 1}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LittenColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecularColor: {r: 0.44701105, g: 0.23010384, b: 0.8235294, a: 1}
+    - _back_light: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_1582: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_1759: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_855: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _yingzi: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,3338 @@
+fileFormatVersion: 2
+guid: 568476fa6df6fab489b07c46b4131e99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_Battle_Pve_Boss_Longtou
+  - first:
+      213: 21300002
+    second: UI_Battle_Pve_Boss_Longtou_Di
+  - first:
+      213: 21300004
+    second: UI_Battle_Pve_Boss_Xuetiao_Beijing
+  - first:
+      213: 21300006
+    second: UI_Battle_Pve_Hong_Di_01
+  - first:
+      213: 21300008
+    second: UI_Battle_Pve_Huatong
+  - first:
+      213: 21300010
+    second: UI_Battle_Pve_Jindu_Di_01
+  - first:
+      213: 21300012
+    second: UI_Battle_Pve_Jindu_Di_02
+  - first:
+      213: 21300014
+    second: UI_Battle_Pve_Jingguai_Xt_Di
+  - first:
+      213: 21300016
+    second: UI_Battle_Pve_Jingguai_Xt_Hong_Di
+  - first:
+      213: 21300018
+    second: UI_Battle_Pve_Kuang_Di
+  - first:
+      213: 21300020
+    second: UI_Battle_Pve_Lantiao_Di_02
+  - first:
+      213: 21300022
+    second: UI_Battle_Pve_Lantiao_Di_03
+  - first:
+      213: 21300024
+    second: UI_Battle_Pve_Liuyan
+  - first:
+      213: 21300026
+    second: UI_Battle_Pve_Shuzi_Di
+  - first:
+      213: 21300028
+    second: UI_Battle_Pve_Sidiao
+  - first:
+      213: 21300030
+    second: UI_Battle_Pve_Tanchukuang_Hei_01
+  - first:
+      213: 21300032
+    second: UI_Battle_Pve_Tanchukuang_Xuanzhong
+  - first:
+      213: 21300034
+    second: UI_Battle_Pve_Touxiang
+  - first:
+      213: 21300036
+    second: UI_Battle_Pve_Touxiang_01
+  - first:
+      213: 21300038
+    second: UI_Battle_Pve_Tubiao_Haoyou
+  - first:
+      213: 21300040
+    second: UI_Battle_Pve_Tubiao_Liuyan
+  - first:
+      213: 21300042
+    second: UI_Battle_Pve_Tubiao_Shijian
+  - first:
+      213: 21300044
+    second: UI_Battle_Pve_Xiaoguai_Xt_Di
+  - first:
+      213: 21300046
+    second: UI_Battle_Pve_Xiaoguai_Xt_Hong_Di
+  - first:
+      213: 21300048
+    second: UI_Battle_Pve_Blood_Bg_Jingying
+  - first:
+      213: 21300050
+    second: UI_Battle_Pve_Blood_Bg_Monster
+  - first:
+      213: 21300052
+    second: UI_Battle_Pve_Blood_Jingying
+  - first:
+      213: 21300054
+    second: UI_Battle_Pve_Blood_Monster
+  - first:
+      213: 21300056
+    second: UI_Battle_Pve_Boss_Blood_Blue
+  - first:
+      213: 21300058
+    second: UI_Battle_Pve_Boss_Blood_Green
+  - first:
+      213: 21300060
+    second: UI_Battle_Pve_Boss_Blood_Purple
+  - first:
+      213: 21300062
+    second: UI_Battle_Pve_Boss_Blood_Red
+  - first:
+      213: 21300064
+    second: UI_Battle_Pve_Boss_Blood_White
+  - first:
+      213: 21300066
+    second: UI_Battle_Pve_Boss_Blood_Yellow
+  - first:
+      213: 21300068
+    second: UI_Battle_Pve_Boss_Touxiang_Bg
+  - first:
+      213: 21300070
+    second: UI_Battle_Pve_Boss_Xuetiao_Bg
+  - first:
+      213: 21300072
+    second: UI_Battle_Pve_Boss_Xuetiao_Bg2
+  - first:
+      213: 21300074
+    second: UI_Battle_Pve_Boss_Xuetiao_Kuang
+  - first:
+      213: 21300076
+    second: UI_Battle_Pve_Btn_LiaoTian
+  - first:
+      213: 21300078
+    second: UI_Battle_Pve_Btn_Shezhi
+  - first:
+      213: 21300080
+    second: UI_Battle_Pve_Btn_Task_01
+  - first:
+      213: 21300082
+    second: UI_Battle_Pve_Btn_Task_02
+  - first:
+      213: 21300084
+    second: UI_Battle_Pve_Btn_Task_03
+  - first:
+      213: 21300086
+    second: UI_Battle_Pve_Btn_YuYin_01
+  - first:
+      213: 21300088
+    second: UI_Battle_Pve_Btn_YuYin_02
+  - first:
+      213: 21300090
+    second: UI_Battle_Pve_Btn_YuYin_03
+  - first:
+      213: 21300092
+    second: UI_Battle_Pve_Btn_YuYin_04
+  - first:
+      213: 21300094
+    second: UI_Battle_Pve_Btn_Zidong_01
+  - first:
+      213: 21300096
+    second: UI_Battle_Pve_Btn_Zidong_02
+  - first:
+      213: 21300098
+    second: UI_Battle_Pve_Chat_Bg_01
+  - first:
+      213: 21300100
+    second: UI_Battle_Pve_Chat_Btn_02
+  - first:
+      213: 21300102
+    second: UI_Battle_Pve_Chat_Btn_Huawen_01
+  - first:
+      213: 21300104
+    second: UI_Battle_Pve_Chat_Btn_Huawen_02
+  - first:
+      213: 21300106
+    second: UI_Battle_Pve_Chat_Btn_Huawen_03
+  - first:
+      213: 21300108
+    second: UI_Battle_Pve_Chat_Btn_Huawen_04
+  - first:
+      213: 21300110
+    second: UI_Battle_Pve_Chat_Btn_Huawen_05
+  - first:
+      213: 21300112
+    second: UI_Battle_Pve_Chat_Btn_Huawen_06
+  - first:
+      213: 21300114
+    second: UI_Battle_Pve_Chat_Shuru_Bg
+  - first:
+      213: 21300116
+    second: UI_Battle_Pve_Die
+  - first:
+      213: 21300118
+    second: UI_Battle_Pve_Hong_Di_02
+  - first:
+      213: 21300120
+    second: UI_Battle_Pve_JingyanBar
+  - first:
+      213: 21300122
+    second: UI_Battle_Pve_JingyanBar_Bg
+  - first:
+      213: 21300124
+    second: UI_Battle_Pve_JingyanBar_Fenge
+  - first:
+      213: 21300126
+    second: UI_Battle_Pve_Lantiao_Di_01
+  - first:
+      213: 21300128
+    second: UI_Battle_Pve_Liaotian_Bg
+  - first:
+      213: 21300130
+    second: UI_Battle_Pve_Liaotian_Btn_Bg_01
+  - first:
+      213: 21300132
+    second: UI_Battle_Pve_Liaotian_Btn_Bg_02
+  - first:
+      213: 21300134
+    second: UI_Battle_Pve_Liaotian_Btn_Icon_01
+  - first:
+      213: 21300136
+    second: UI_Battle_Pve_Liaotian_Btn_Icon_02
+  - first:
+      213: 21300138
+    second: UI_Battle_Pve_Liaotian_Btn_Jinzhi
+  - first:
+      213: 21300140
+    second: UI_Battle_Pve_Liaotian_Line
+  - first:
+      213: 21300142
+    second: UI_Battle_Pve_Map_Bg
+  - first:
+      213: 21300144
+    second: UI_Battle_Pve_Map_Name_Bg
+  - first:
+      213: 21300146
+    second: UI_Battle_Pve_Pingfen_Bg
+  - first:
+      213: 21300148
+    second: UI_Battle_Pve_Pingfen_Icon_01
+  - first:
+      213: 21300150
+    second: UI_Battle_Pve_Pingfen_Icon_02
+  - first:
+      213: 21300152
+    second: UI_Battle_Pve_Pingfen_Light
+  - first:
+      213: 21300154
+    second: UI_Battle_Pve_Pingfen_S
+  - first:
+      213: 21300156
+    second: UI_Battle_Pve_Qipao_01
+  - first:
+      213: 21300158
+    second: UI_Battle_Pve_Task_Bg
+  - first:
+      213: 21300160
+    second: UI_Battle_Pve_TouxiangKuang_01
+  - first:
+      213: 21300162
+    second: UI_Battle_Pve_TouxiangKuang_02
+  - first:
+      213: 21300164
+    second: UI_Battle_Pve_Touxiang_Blood_Bg_01
+  - first:
+      213: 21300166
+    second: UI_Battle_Pve_Touxiang_Blood_Bg_02
+  - first:
+      213: 21300168
+    second: UI_Battle_Pve_Jingying_Xuetiao_Bg
+  - first:
+      213: 21300170
+    second: UI_Battle_Pve_Jingying_Xuetiao_Kuang
+  - first:
+      213: 21300172
+    second: UI_Battle_Pve_Moxiangnengliang
+  - first:
+      213: 21300174
+    second: UI_Battle_Pve_Moxiangnengliang_Bar_01
+  - first:
+      213: 21300176
+    second: UI_Battle_Pve_Moxiangnengliang_Bar_02
+  - first:
+      213: 21300178
+    second: UI_Battle_Pve_Moxiangnengliang_Bar_03
+  - first:
+      213: 21300180
+    second: UI_Battle_Pve_Moxiangnengliang_Bar_04
+  - first:
+      213: 21300182
+    second: UI_Battle_Pve_Moxiangnengliang_Bar_Bg
+  - first:
+      213: 21300184
+    second: UI_Battle_Pve_Qipao_Bar
+  - first:
+      213: 21300186
+    second: UI_Battle_Pve_Qipao_Bar_Bg
+  - first:
+      213: 21300188
+    second: UI_Battle_Pve_Shuzi_Bg
+  - first:
+      213: 21300190
+    second: UI_Battle_Pve_Text_Jisha
+  - first:
+      213: 21300192
+    second: UI_Battle_Pve_Text_Shijian
+  - first:
+      213: 21300194
+    second: UI_Battle_Pve_Text_Wanchengdu
+  - first:
+      213: 21300196
+    second: UI_Battle_Pve_Jiantou
+  - first:
+      213: 21300198
+    second: UI_Battle_Pve_Title_Di
+  - first:
+      213: 21300200
+    second: UI_Battle_Pve_Yinse_Wanzhneg
+  - first:
+      213: 21300202
+    second: UI_Battle_Pve_Zi
+  - first:
+      213: 21300204
+    second: UI_Shezhi_Title_Di
+  - first:
+      213: 21300206
+    second: UI_Battle_Pve_IconMicrophone
+  - first:
+      213: 21300208
+    second: UI_3v3_Zhandou_Tishi
+  - first:
+      213: 21300210
+    second: UI_Battle_Pve_Fuhuobi
+  - first:
+      213: 21300212
+    second: UI_ZhandouUI_Heise_Di
+  - first:
+      213: 21300214
+    second: UI_ZhandouUI_Tubiao_Hjt
+  - first:
+      213: 21300216
+    second: UI_ZhandouUI_Tubiao_Shanxing
+  - first:
+      213: 21300218
+    second: UI_ZhandouUI_Xuanzhong
+  - first:
+      213: 21300220
+    second: UI_ZhandouUI_Yaoshui
+  - first:
+      213: 21300222
+    second: UI_ZhandouUI_Yaoshuijindu
+  - first:
+      213: 21300224
+    second: UI_ZhandouUI_Zuida_Di
+  - first:
+      213: 21300226
+    second: UI_Battle_Pvp_Bofang
+  - first:
+      213: 21300228
+    second: UI_Battle_Pvp_Btn_LiaoTian
+  - first:
+      213: 21300230
+    second: UI_Battle_Pvp_Btn_YuYin_01
+  - first:
+      213: 21300232
+    second: UI_Battle_Pvp_Btn_YuYin_02
+  - first:
+      213: 21300234
+    second: UI_Battle_Pvp_Btn_YuYin_03
+  - first:
+      213: 21300236
+    second: UI_Battle_Pvp_Btn_YuYin_04
+  - first:
+      213: 21300238
+    second: UI_Battle_Pvp_Jieshu
+  - first:
+      213: 21300240
+    second: UI_Battle_Pvp_Liaotian_Btn_Bg_01
+  - first:
+      213: 21300242
+    second: UI_Battle_Pvp_Liaotian_Btn_Bg_02
+  - first:
+      213: 21300244
+    second: UI_Battle_Pvp_Liaotian_Btn_Icon_01
+  - first:
+      213: 21300246
+    second: UI_Battle_Pvp_Liaotian_Btn_Icon_02
+  - first:
+      213: 21300248
+    second: UI_Battle_Pvp_Liaotian_Btn_Jinzhi
+  - first:
+      213: 21300250
+    second: UI_Battle_Pvp_Shuaxin
+  - first:
+      213: 21300252
+    second: UI_Battle_Pvp_Zanting
+  - first:
+      213: 21300254
+    second: UI_Fanpai_Pilaoduihuan_Jbfb
+  - first:
+      213: 21300256
+    second: UI_Fanpai_Pilaoduihuan_Jingli
+  - first:
+      213: 21300258
+    second: UI_Fanpai_Pilaoduihuan_Jingyan
+  - first:
+      213: 21300260
+    second: UI_Fanpai_Pilaoduihuan_Ranshao
+  - first:
+      213: 21300262
+    second: UI_Fanpai_Pilaoduihuan_Yuanquan_Di
+  - first:
+      213: 21300264
+    second: UI_Season_Zi_Shibai
+  - first:
+      213: 21300266
+    second: UI_ZhandouUI_Boss
+  - first:
+      213: 21300268
+    second: UI_ZhandouUI_Jinenkuang_Qipao_Zudui_Di
+  - first:
+      213: 21300270
+    second: UI_ZhandouUI_Tubiao_Duizhang
+  - first:
+      213: 21300272
+    second: UI_ZhandouUI_Tubiao_Jingying
+  - first:
+      213: 21300274
+    second: UI_ZhandouUI_Tubiao_Lingzhu
+  - first:
+      213: 21300276
+    second: UI_ZhandouUI_Tubiao_Putong
+  - first:
+      213: 21300278
+    second: UI_ZhandouUI_Tubiao_Xinhao
+  - first:
+      213: 21300280
+    second: UI_ZhandouUI_Tubiao_Xinhao_01
+  - first:
+      213: 21300282
+    second: UI_ZhandouUI_Tubiao_Xinhao_02
+  - first:
+      213: 21300284
+    second: Dixiacheng_Lianji_Zi
+  - first:
+      213: 21300286
+    second: Dixiacheng_Duihua_Paopao_Di
+  - first:
+      213: 21300288
+    second: MainUI_npcDh_di02
+  - first:
+      213: 21300290
+    second: UI_MainUI_Pao
+  - first:
+      213: 21300292
+    second: UI_ZhandouUI_Jinenkuang_Baozha
+  - first:
+      213: 21300294
+    second: UI_Tongyong_Qipao
+  - first:
+      213: 21300296
+    second: UI_MainUI_Tubiao_Youjian
+  - first:
+      213: 21300298
+    second: Common_IconDownArrow02
+  - first:
+      213: 21300300
+    second: UI_Battle_Pve_Pingfen_A
+  - first:
+      213: 21300302
+    second: UI_Battle_Pve_Buff_Bg_01
+  - first:
+      213: 21300304
+    second: UI_Battle_Pve_Buff_Bg_02
+  - first:
+      213: 21300306
+    second: UI_Battle_Pve_Boss
+  - first:
+      213: 21300308
+    second: UI_Battle_Pve_IconDownArrow02
+  - first:
+      213: 21300310
+    second: UI_Battle_Pve_Jinenkuang_Baozha
+  - first:
+      213: 21300312
+    second: UI_Battle_Pve_Lianji_Zi
+  - first:
+      213: 21300314
+    second: UI_Battle_Pve_Pao
+  - first:
+      213: 21300316
+    second: UI_Battle_Pve_Paopao_Di
+  - first:
+      213: 21300318
+    second: UI_Battle_Pve_Pilaoduihuan_Jbfb
+  - first:
+      213: 21300320
+    second: UI_Battle_Pve_Pilaoduihuan_Jingli
+  - first:
+      213: 21300322
+    second: UI_Battle_Pve_Pilaoduihuan_Jingyan
+  - first:
+      213: 21300324
+    second: UI_Battle_Pve_Pilaoduihuan_Ranshao
+  - first:
+      213: 21300326
+    second: UI_Battle_Pve_Pilaoduihuan_Yuanquan_Di
+  - first:
+      213: 21300328
+    second: UI_Battle_Pve_Qipao
+  - first:
+      213: 21300330
+    second: UI_Battle_Pve_Qipao_Zudui_Di
+  - first:
+      213: 21300332
+    second: UI_Battle_Pve_Tishi
+  - first:
+      213: 21300334
+    second: UI_Battle_Pve_Tubiao_Duizhang
+  - first:
+      213: 21300336
+    second: UI_Battle_Pve_Tubiao_Hjt
+  - first:
+      213: 21300338
+    second: UI_Battle_Pve_Tubiao_Jingying
+  - first:
+      213: 21300340
+    second: UI_Battle_Pve_Tubiao_Lingzhu
+  - first:
+      213: 21300342
+    second: UI_Battle_Pve_Tubiao_Putong
+  - first:
+      213: 21300344
+    second: UI_Battle_Pve_Tubiao_Xinhao
+  - first:
+      213: 21300346
+    second: UI_Battle_Pve_Tubiao_Xinhao_01
+  - first:
+      213: 21300348
+    second: UI_Battle_Pve_Tubiao_Xinhao_02
+  - first:
+      213: 21300350
+    second: UI_Battle_Pve_Tubiao_Youjian
+  - first:
+      213: 21300352
+    second: UI_Battle_Pve_Xuanzhong
+  - first:
+      213: 21300354
+    second: UI_Battle_Pve_Yaoshui
+  - first:
+      213: 21300356
+    second: UI_Battle_Pve_Yaoshuijindu
+  - first:
+      213: 21300358
+    second: UI_Battle_Pve_Zi_Shibai
+  - first:
+      213: 21300360
+    second: UI_Battle_Pve_npcDh_di02
+  - first:
+      213: 21300362
+    second: UI_Battle_Pve_Shuzi_Jianbian
+  - first:
+      213: 21300364
+    second: UI_Battle_Pve_Shuzi_Tuan
+  - first:
+      213: 21300366
+    second: UI_Battle_Pve_Tubiao_Baozha
+  - first:
+      213: 21300368
+    second: UI_Battle_Pve_Shanxing
+  - first:
+      213: 21300370
+    second: UI_Battle_Pve_Zuida_Di
+  - first:
+      213: 21300372
+    second: UI_Battle_Pve_DianJiTiaoGuo
+  - first:
+      213: 21300374
+    second: UI_Battle_Pve_Diaoluo_Di
+  - first:
+      213: 21300376
+    second: UI_Battle_Pve_DungeonClearMenu_Di_01
+  - first:
+      213: 21300378
+    second: UI_Battle_Pve_DungeonClearMenu_Di_02
+  - first:
+      213: 21300380
+    second: UI_Battle_Pve_DungeonClearMenu_Miao_Zi
+  - first:
+      213: 21300382
+    second: UI_Battle_Pve_DungeonClearMenu_Zidong
+  - first:
+      213: 21300384
+    second: UI_Battle_Pve_Huangse_Wenhao
+  - first:
+      213: 21300386
+    second: UI_Battle_Pve_Jianbian_Di
+  - first:
+      213: 21300388
+    second: UI_Battle_Pve_Kuang_Xia_Di
+  - first:
+      213: 21300390
+    second: UI_Battle_Pve_Kuang_Xian
+  - first:
+      213: 21300392
+    second: UI_Battle_Pve_TuiSong_Bg
+  - first:
+      213: 21300394
+    second: UI_Battle_Pve_Zuida_Di_01
+  - first:
+      213: 21300396
+    second: UI_ZhandouUI_Tubiao_Buff_CD
+  - first:
+      213: 21300398
+    second: UI_Battle_Pve_Gmsz_Di
+  - first:
+      213: 21300400
+    second: UI_Battle_Pve_Gmsz_Juse_Sj
+  - first:
+      213: 21300402
+    second: UI_Battle_Pve_Gmsz_Jx
+  - first:
+      213: 21300404
+    second: UI_Battle_Pve_Gmsz_Lanse_Sj
+  - first:
+      213: 21300406
+    second: UI_Battle_Pve_Gmsz_Qt
+  - first:
+      213: 21300408
+    second: UI_Battle_Pve_White
+  - first:
+      213: 21300410
+    second: UI_Common_RoundWhite
+  - first:
+      213: 21300412
+    second: UI_Battle_Pve_Duiyoudiaoxue_Di
+  - first:
+      213: 21300414
+    second: UI_Battle_Pve_Hong_Di_03
+  - first:
+      213: 21300416
+    second: UI_Battle_Pve_Hong_Di_04
+  - first:
+      213: 21300418
+    second: UI_Battle_Shuzi_1
+  - first:
+      213: 21300420
+    second: UI_Battle_Shuzi_2
+  - first:
+      213: 21300422
+    second: UI_Battle_Shuzi_3
+  - first:
+      213: 21300424
+    second: UI_Battle_Shuzi_4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Blood_Bg_Jingying
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 647
+        width: 236
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Blood_Bg_Monster
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 618
+        width: 114
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Blood_Jingying
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 495
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Blood_Monster
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1017
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 815
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Blood_Blue
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 469
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Blood_Green
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 435
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 0, z: 26, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Blood_Purple
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 370
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 0, z: 22, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Blood_Red
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 434
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Blood_White
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 373
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 0, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Blood_Yellow
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 24, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Touxiang_Bg
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 688
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 31, z: 21, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Xuetiao_Beijing
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 955
+        width: 366
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Xuetiao_Bg
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 542
+        width: 129
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 17, z: 81, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Xuetiao_Bg2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1019
+        width: 441
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Boss_Xuetiao_Kuang
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 584
+        width: 229
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_LiaoTian
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_Shezhi
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 512
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_Task_01
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 439
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_Task_02
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 325
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_Task_03
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 362
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_YuYin_01
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 397
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Btn_Zidong_02
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 397
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Buff_Bg_01
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 23, z: 23, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Buff_Bg_02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 346
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 14, z: 23, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Bg_01
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 659
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 10, z: 30, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Btn_Huawen_01
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 412
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Btn_Huawen_02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 366
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Btn_Huawen_03
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 314
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Btn_Huawen_04
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 273
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Btn_Huawen_05
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 259
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Btn_Huawen_06
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Chat_Shuru_Bg
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 630
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 9, z: 25, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_DianJiTiaoGuo
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 827
+        width: 192
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Diaoluo_Di
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 621
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Die
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 538
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Duiyoudiaoxue_Di
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 775
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_DungeonClearMenu_Di_01
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 655
+        width: 33
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 44, z: 11, w: 38}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_DungeonClearMenu_Di_02
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 323
+        width: 29
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 66, z: 10, w: 66}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_DungeonClearMenu_Miao_Zi
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 449
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_DungeonClearMenu_Zidong
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 782
+        width: 191
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Fuhuobi
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 385
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Hong_Di_01
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 925
+        width: 339
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Hong_Di_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 774
+        width: 239
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Huangse_Wenhao
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 311
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_IconDownArrow02
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 509
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_IconMicrophone
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 484
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Jianbian_Di
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 920
+        width: 45
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Jiantou
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 917
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Jinenkuang_Baozha
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 908
+        width: 200
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_JingyanBar
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 518
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 0, z: 22, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_JingyanBar_Bg
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 509
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_JingyanBar_Fenge
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1010
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Jingying_Xuetiao_Bg
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 363
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 10, z: 14, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Jingying_Xuetiao_Kuang
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 833
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Kuang_Di
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 710
+        width: 238
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Kuang_Xia_Di
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 483
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 13, z: 10, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Kuang_Xian
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 812
+        width: 13
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Lantiao_Di_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 865
+        width: 250
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Lantiao_Di_02
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 772
+        width: 174
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Lianji_Zi
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 405
+        width: 120
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Liaotian_Bg
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 817
+        width: 287
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 18, z: 0, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Liaotian_Btn_Jinzhi
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 787
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Liaotian_Line
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 804
+        width: 257
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Map_Bg
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 271
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 18, z: 19, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Map_Name_Bg
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 756
+        width: 251
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 16, z: 0, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pao
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 638
+        width: 100
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 22, z: 25, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Paopao_Di
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 458
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 14, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pilaoduihuan_Jbfb
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 466
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pilaoduihuan_Jingli
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 511
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pilaoduihuan_Jingyan
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 620
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pilaoduihuan_Ranshao
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 347
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pilaoduihuan_Yuanquan_Di
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 454
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pingfen_A
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 742
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pingfen_Bg
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 551
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 20, z: 47, w: 51}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pingfen_Icon_01
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 331
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pingfen_Icon_02
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 328
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pingfen_Light
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 883
+        width: 199
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Pingfen_S
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 651
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Qipao
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 393
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 54, z: 85, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Qipao_Zudui_Di
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 221
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 34, z: 139, w: 95}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Shanxing
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 779
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Shuzi_Di
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 315
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Shuzi_Jianbian
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 542
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Shuzi_Tuan
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 428
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Task_Bg
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 896
+        width: 292
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 10, z: 0, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tishi
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 879
+        width: 340
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Title_Di
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 469
+        width: 150
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Touxiang_Blood_Bg_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 925
+        width: 352
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Touxiang_Blood_Bg_02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 797
+        width: 244
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Baozha
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 607
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Duizhang
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 901
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Hjt
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 351
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Jingying
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 359
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Lingzhu
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 359
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Putong
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 466
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Xinhao
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 623
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Xinhao_01
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 319
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Xinhao_02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 305
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Tubiao_Youjian
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 671
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_TuiSong_Bg
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 282
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_White
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1012
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Xuanzhong
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 395
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Yaoshui
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 364
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Yaoshuijindu
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 773
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Yinse_Wanzhneg
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 527
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Zi
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 972
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Zi_Shibai
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 527
+        width: 150
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Zuida_Di
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 480
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_Zuida_Di_01
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 360
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Pve_npcDh_di02
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 741
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Shuzi_1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 666
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Shuzi_2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 591
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Shuzi_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 391
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Battle_Shuzi_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ZhandouUI_Tubiao_Buff_CD
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 358
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_Battle_Pve_Blood_Bg_Jingying: 21300048
+      UI_Battle_Pve_Blood_Bg_Monster: 21300050
+      UI_Battle_Pve_Blood_Jingying: 21300052
+      UI_Battle_Pve_Blood_Monster: 21300054
+      UI_Battle_Pve_Boss: 21300306
+      UI_Battle_Pve_Boss_Blood_Blue: 21300056
+      UI_Battle_Pve_Boss_Blood_Green: 21300058
+      UI_Battle_Pve_Boss_Blood_Purple: 21300060
+      UI_Battle_Pve_Boss_Blood_Red: 21300062
+      UI_Battle_Pve_Boss_Blood_White: 21300064
+      UI_Battle_Pve_Boss_Blood_Yellow: 21300066
+      UI_Battle_Pve_Boss_Touxiang_Bg: 21300068
+      UI_Battle_Pve_Boss_Xuetiao_Beijing: 21300004
+      UI_Battle_Pve_Boss_Xuetiao_Bg: 21300070
+      UI_Battle_Pve_Boss_Xuetiao_Bg2: 21300072
+      UI_Battle_Pve_Boss_Xuetiao_Kuang: 21300074
+      UI_Battle_Pve_Btn_LiaoTian: 21300076
+      UI_Battle_Pve_Btn_Shezhi: 21300078
+      UI_Battle_Pve_Btn_Task_01: 21300080
+      UI_Battle_Pve_Btn_Task_02: 21300082
+      UI_Battle_Pve_Btn_Task_03: 21300084
+      UI_Battle_Pve_Btn_YuYin_01: 21300086
+      UI_Battle_Pve_Btn_Zidong_02: 21300096
+      UI_Battle_Pve_Buff_Bg_01: 21300302
+      UI_Battle_Pve_Buff_Bg_02: 21300304
+      UI_Battle_Pve_Chat_Bg_01: 21300098
+      UI_Battle_Pve_Chat_Btn_Huawen_01: 21300102
+      UI_Battle_Pve_Chat_Btn_Huawen_02: 21300104
+      UI_Battle_Pve_Chat_Btn_Huawen_03: 21300106
+      UI_Battle_Pve_Chat_Btn_Huawen_04: 21300108
+      UI_Battle_Pve_Chat_Btn_Huawen_05: 21300110
+      UI_Battle_Pve_Chat_Btn_Huawen_06: 21300112
+      UI_Battle_Pve_Chat_Shuru_Bg: 21300114
+      UI_Battle_Pve_DianJiTiaoGuo: 21300372
+      UI_Battle_Pve_Diaoluo_Di: 21300374
+      UI_Battle_Pve_Die: 21300116
+      UI_Battle_Pve_Duiyoudiaoxue_Di: 21300412
+      UI_Battle_Pve_DungeonClearMenu_Di_01: 21300376
+      UI_Battle_Pve_DungeonClearMenu_Di_02: 21300378
+      UI_Battle_Pve_DungeonClearMenu_Miao_Zi: 21300380
+      UI_Battle_Pve_DungeonClearMenu_Zidong: 21300382
+      UI_Battle_Pve_Fuhuobi: 21300210
+      UI_Battle_Pve_Hong_Di_01: 21300006
+      UI_Battle_Pve_Hong_Di_02: 21300118
+      UI_Battle_Pve_Huangse_Wenhao: 21300384
+      UI_Battle_Pve_IconDownArrow02: 21300308
+      UI_Battle_Pve_IconMicrophone: 21300206
+      UI_Battle_Pve_Jianbian_Di: 21300386
+      UI_Battle_Pve_Jiantou: 21300196
+      UI_Battle_Pve_Jinenkuang_Baozha: 21300310
+      UI_Battle_Pve_JingyanBar: 21300120
+      UI_Battle_Pve_JingyanBar_Bg: 21300122
+      UI_Battle_Pve_JingyanBar_Fenge: 21300124
+      UI_Battle_Pve_Jingying_Xuetiao_Bg: 21300168
+      UI_Battle_Pve_Jingying_Xuetiao_Kuang: 21300170
+      UI_Battle_Pve_Kuang_Di: 21300018
+      UI_Battle_Pve_Kuang_Xia_Di: 21300388
+      UI_Battle_Pve_Kuang_Xian: 21300390
+      UI_Battle_Pve_Lantiao_Di_01: 21300126
+      UI_Battle_Pve_Lantiao_Di_02: 21300020
+      UI_Battle_Pve_Lianji_Zi: 21300312
+      UI_Battle_Pve_Liaotian_Bg: 21300128
+      UI_Battle_Pve_Liaotian_Btn_Jinzhi: 21300138
+      UI_Battle_Pve_Liaotian_Line: 21300140
+      UI_Battle_Pve_Map_Bg: 21300142
+      UI_Battle_Pve_Map_Name_Bg: 21300144
+      UI_Battle_Pve_Pao: 21300314
+      UI_Battle_Pve_Paopao_Di: 21300316
+      UI_Battle_Pve_Pilaoduihuan_Jbfb: 21300318
+      UI_Battle_Pve_Pilaoduihuan_Jingli: 21300320
+      UI_Battle_Pve_Pilaoduihuan_Jingyan: 21300322
+      UI_Battle_Pve_Pilaoduihuan_Ranshao: 21300324
+      UI_Battle_Pve_Pilaoduihuan_Yuanquan_Di: 21300326
+      UI_Battle_Pve_Pingfen_A: 21300300
+      UI_Battle_Pve_Pingfen_Bg: 21300146
+      UI_Battle_Pve_Pingfen_Icon_01: 21300148
+      UI_Battle_Pve_Pingfen_Icon_02: 21300150
+      UI_Battle_Pve_Pingfen_Light: 21300152
+      UI_Battle_Pve_Pingfen_S: 21300154
+      UI_Battle_Pve_Qipao: 21300328
+      UI_Battle_Pve_Qipao_Zudui_Di: 21300330
+      UI_Battle_Pve_Shanxing: 21300368
+      UI_Battle_Pve_Shuzi_Di: 21300026
+      UI_Battle_Pve_Shuzi_Jianbian: 21300362
+      UI_Battle_Pve_Shuzi_Tuan: 21300364
+      UI_Battle_Pve_Task_Bg: 21300158
+      UI_Battle_Pve_Tishi: 21300332
+      UI_Battle_Pve_Title_Di: 21300198
+      UI_Battle_Pve_Touxiang_Blood_Bg_01: 21300164
+      UI_Battle_Pve_Touxiang_Blood_Bg_02: 21300166
+      UI_Battle_Pve_Tubiao_Baozha: 21300366
+      UI_Battle_Pve_Tubiao_Duizhang: 21300334
+      UI_Battle_Pve_Tubiao_Hjt: 21300336
+      UI_Battle_Pve_Tubiao_Jingying: 21300338
+      UI_Battle_Pve_Tubiao_Lingzhu: 21300340
+      UI_Battle_Pve_Tubiao_Putong: 21300342
+      UI_Battle_Pve_Tubiao_Xinhao: 21300344
+      UI_Battle_Pve_Tubiao_Xinhao_01: 21300346
+      UI_Battle_Pve_Tubiao_Xinhao_02: 21300348
+      UI_Battle_Pve_Tubiao_Youjian: 21300350
+      UI_Battle_Pve_TuiSong_Bg: 21300392
+      UI_Battle_Pve_White: 21300408
+      UI_Battle_Pve_Xuanzhong: 21300352
+      UI_Battle_Pve_Yaoshui: 21300354
+      UI_Battle_Pve_Yaoshuijindu: 21300356
+      UI_Battle_Pve_Yinse_Wanzhneg: 21300200
+      UI_Battle_Pve_Zi: 21300202
+      UI_Battle_Pve_Zi_Shibai: 21300358
+      UI_Battle_Pve_Zuida_Di: 21300370
+      UI_Battle_Pve_Zuida_Di_01: 21300394
+      UI_Battle_Pve_npcDh_di02: 21300360
+      UI_Battle_Shuzi_1: 21300418
+      UI_Battle_Shuzi_2: 21300420
+      UI_Battle_Shuzi_3: 21300422
+      UI_Battle_Shuzi_4: 21300424
+      UI_ZhandouUI_Tubiao_Buff_CD: 21300396
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

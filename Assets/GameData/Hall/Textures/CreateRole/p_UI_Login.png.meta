@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: f79a8926273689e44aa6e1387c6bcd9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_Denglu_Left_Di
+  - first:
+      213: 21300002
+    second: UI_Denglu_Tubiao_Baoman
+  - first:
+      213: 21300004
+    second: UI_Denglu_Tubiao_Fanmang
+  - first:
+      213: 21300006
+    second: UI_Denglu_Tubiao_Fuwuqi_Xuanzhong
+  - first:
+      213: 21300008
+    second: UI_Denglu_Tubiao_Gonggao
+  - first:
+      213: 21300010
+    second: UI_Denglu_Tubiao_Hongse
+  - first:
+      213: 21300012
+    second: UI_Denglu_Tubiao_Huangse
+  - first:
+      213: 21300014
+    second: UI_Denglu_Tubiao_Jiantou
+  - first:
+      213: 21300016
+    second: UI_Denglu_Tubiao_Liuchang
+  - first:
+      213: 21300018
+    second: UI_Denglu_Tubiao_Lvse
+  - first:
+      213: 21300020
+    second: UI_Denglu_Tubiao_Touxiang_Kuang
+  - first:
+      213: 21300022
+    second: UI_Denglu_Tubiao_Weihu
+  - first:
+      213: 21300024
+    second: UI_Denglu_Tubiao_Xinfu
+  - first:
+      213: 21300026
+    second: UI_Denglu_Tubiao_Xuanzefuwuqi_Huobao_Di
+  - first:
+      213: 21300028
+    second: UI_Denglu_Anniu_Teshu_Jinruyouxi
+  - first:
+      213: 21300030
+    second: UI_Beijing_Denglu_Chilun_03
+  - first:
+      213: 21300032
+    second: UI_Beijing_Denglu_Chilun_04
+  - first:
+      213: 21300034
+    second: UI_Denglu_Fuwuqi_Ren
+  - first:
+      213: 21300036
+    second: UI_Denglu_Fuwuqiliebiao_Di_01
+  - first:
+      213: 21300038
+    second: UI_Denglu_Fuwuqiliebiao_Di_02
+  - first:
+      213: 21300040
+    second: UI_Denglu_Tubiao_Huise
+  - first:
+      213: 21300042
+    second: UI_Denglu_Anniu_Zhanghao_Di
+  - first:
+      213: 21300044
+    second: UI_Denglu_Liangzhounian_Di
+  - first:
+      213: 21300046
+    second: UI_Denglu_Liangzhounian_Di_01
+  - first:
+      213: 21300048
+    second: UI_Denglu_Anniu_Teshu_Jinruyouxi2
+  - first:
+      213: 21300050
+    second: UI_Denglu_Banhao_Di
+  - first:
+      213: 21300052
+    second: UI_Denglu_Fuwuqiliebiao_Di_03
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Denglu_Anniu_Teshu_Jinruyouxi
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 887
+        width: 398
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Anniu_Teshu_Jinruyouxi2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 866
+        width: 372
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Anniu_Zhanghao_Di
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 857
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 31, z: 37, w: 32}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Banhao_Di
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 875
+        width: 357
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Fuwuqi_Ren
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 890
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Fuwuqiliebiao_Di_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 730
+        width: 47
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 44, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Fuwuqiliebiao_Di_02
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 827
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 43, z: 48, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Left_Di
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 813
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 19, z: 19, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Liangzhounian_Di
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 751
+        width: 268
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Liangzhounian_Di_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 290
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Baoman
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 757
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Fanmang
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 749
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Fuwuqi_Xuanzhong
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 783
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 33, z: 36, w: 33}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Gonggao
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 791
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Hongse
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 849
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Huangse
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 775
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Huise
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 789
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Jiantou
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 742
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Liuchang
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 749
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Lvse
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 751
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Touxiang_Kuang
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 892
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Weihu
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 715
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Xinfu
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 927
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Denglu_Tubiao_Xuanzefuwuqi_Huobao_Di
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 799
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UI_Denglu_Anniu_Teshu_Jinruyouxi: 21300028
+      UI_Denglu_Anniu_Teshu_Jinruyouxi2: 21300048
+      UI_Denglu_Anniu_Zhanghao_Di: 21300042
+      UI_Denglu_Banhao_Di: 21300050
+      UI_Denglu_Fuwuqi_Ren: 21300034
+      UI_Denglu_Fuwuqiliebiao_Di_01: 21300036
+      UI_Denglu_Fuwuqiliebiao_Di_02: 21300038
+      UI_Denglu_Left_Di: 21300000
+      UI_Denglu_Liangzhounian_Di: 21300044
+      UI_Denglu_Liangzhounian_Di_01: 21300046
+      UI_Denglu_Tubiao_Baoman: 21300002
+      UI_Denglu_Tubiao_Fanmang: 21300004
+      UI_Denglu_Tubiao_Fuwuqi_Xuanzhong: 21300006
+      UI_Denglu_Tubiao_Gonggao: 21300008
+      UI_Denglu_Tubiao_Hongse: 21300010
+      UI_Denglu_Tubiao_Huangse: 21300012
+      UI_Denglu_Tubiao_Huise: 21300040
+      UI_Denglu_Tubiao_Jiantou: 21300014
+      UI_Denglu_Tubiao_Liuchang: 21300016
+      UI_Denglu_Tubiao_Lvse: 21300018
+      UI_Denglu_Tubiao_Touxiang_Kuang: 21300020
+      UI_Denglu_Tubiao_Weihu: 21300022
+      UI_Denglu_Tubiao_Xinfu: 21300024
+      UI_Denglu_Tubiao_Xuanzefuwuqi_Huobao_Di: 21300026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

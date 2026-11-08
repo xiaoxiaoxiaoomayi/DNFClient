@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b99b7a46125abf24894b58e58b6831f3, type: 3}
+  m_Name: P_Dungeon_Ruolan_L_mutong_ModelData
+  m_EditorClassIdentifier: 
+  modelDataName: 
+  modelAvatar: {m_AssetObj: {fileID: 0}, m_AssetPath: }
+  modelScale: {x: 1, y: 1, z: 1}
+  previewLightDir: {x: 0, y: 359, z: 0}
+  previewAmbient:
+    r: 0
+    g: 0
+    b: 0
+    a: 1
+  partsChunk:
+  - partAsset: {m_AssetObj: {fileID: 115318, guid: e131a82c16507824a9d8e50aeb15ba7e, type: 3}, m_AssetPath: Scene/Chapter1_Aierwenfangxian/LogicObjects/Prefab/P_Dungeon_Ruolan_L_mutong}
+    partChannel: 5
+  attachChunk:
+    attachments: []
+  animClipChunk: {}
+  animatChunk: []
+  blockGridChunk:
+    gridWidth: 4
+    gridHeight: 8
+    gridBlockData: 
+    boundingBoxMin: {x: 0, y: 0, z: 0}
+    boundingBoxMax: {x: 0, y: 0, z: 0}

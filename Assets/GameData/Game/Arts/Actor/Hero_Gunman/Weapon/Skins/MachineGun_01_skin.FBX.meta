@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 9b4f462d8afd4044ab47613f654402af
+timeCreated: 1511460501
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Eff_point
+    100002: Machine_Gun
+    100004: Machine_Gun_Bone01
+    100006: Machine_Gun_Bone02
+    100008: Machine_Gun_Dummy
+    100010: //RootNode
+    100012: Eff_point01
+    100014: Eff_point02
+    100016: Eff_point_Danke
+    100018: Eff_point03
+    100020: Eff_point04
+    400000: Eff_point
+    400002: Machine_Gun
+    400004: Machine_Gun_Bone01
+    400006: Machine_Gun_Bone02
+    400008: Machine_Gun_Dummy
+    400010: //RootNode
+    400012: Eff_point01
+    400014: Eff_point02
+    400016: Eff_point_Danke
+    400018: Eff_point03
+    400020: Eff_point04
+    4300000: Machine_Gun
+    7400000: Anim_Idle
+    7400002: Anim_Attack
+    7400004: Anim_End
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Machine_Gun
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Anim_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Machine_Gun
+        weight: 1
+      - path: Machine_Gun_Dummy
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01/Machine_Gun_Bone02
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01/Machine_Gun_Bone02/Eff_point
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 31
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Machine_Gun
+        weight: 1
+      - path: Machine_Gun_Dummy
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01/Machine_Gun_Bone02
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01/Machine_Gun_Bone02/Eff_point
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_End
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Machine_Gun
+        weight: 1
+      - path: Machine_Gun_Dummy
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01/Machine_Gun_Bone02
+        weight: 1
+      - path: Machine_Gun_Dummy/Machine_Gun_Bone01/Machine_Gun_Bone02/Eff_point
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

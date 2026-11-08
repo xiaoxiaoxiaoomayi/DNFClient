@@ -1,0 +1,45 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE caches and generated project files
+/.vs/
+/.idea/
+/.gradle/
+/*.csproj
+/*.sln
+/*.slnx
+/*.unityproj
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.opendb
+/*.VC.db
+/Assets/Plugins/Editor/JetBrains*
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Thumbs.db.meta
+Desktop.ini
+
+# Unity crash reports
+/sysinfo.txt
+/mono_crash.*
+
+# Local course materials and source archives
+/DNF完成版课程开发资料/
+
+# Keep Assets (including .meta files), Packages, and ProjectSettings tracked.

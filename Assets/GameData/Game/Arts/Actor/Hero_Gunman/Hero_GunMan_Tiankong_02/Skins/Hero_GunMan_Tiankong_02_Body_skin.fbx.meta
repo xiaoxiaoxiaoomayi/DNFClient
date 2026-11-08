@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 7fc78b04d2d9a2348b17a2b5af3a6518
+timeCreated: 1535443572
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back
+    100002: Back_Gun
+    100004: Bip001
+    100006: Bip001 Head
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger12
+    100024: Bip001 L Finger2
+    100026: Bip001 L Finger21
+    100028: Bip001 L Finger22
+    100030: Bip001 L Foot
+    100032: Bip001 L Forearm
+    100034: Bip001 L Hand
+    100036: Bip001 L Thigh
+    100038: Bip001 L Toe0
+    100040: Bip001 L UpperArm
+    100042: Bip001 Neck
+    100044: Bip001 Pelvis
+    100046: Bip001 R Calf
+    100048: Bip001 R Clavicle
+    100050: Bip001 R Finger0
+    100052: Bip001 R Finger01
+    100054: Bip001 R Finger02
+    100056: Bip001 R Finger1
+    100058: Bip001 R Finger11
+    100060: Bip001 R Finger12
+    100062: Bip001 R Finger2
+    100064: Bip001 R Finger21
+    100066: Bip001 R Finger22
+    100068: Bip001 R Foot
+    100070: Bip001 R Forearm
+    100072: Bip001 R Hand
+    100074: Bip001 R Thigh
+    100076: Bip001 R Toe0
+    100078: Bip001 R UpperArm
+    100080: Bip001 Spine
+    100082: Bip001 Spine1
+    100084: Bip001 Spine2
+    100086: Body
+    100088: Crotch
+    100090: Gunman_Bone01
+    100092: Gunman_Bone02
+    100094: Gunman_Bone03
+    100096: Gunman_Bone04
+    100098: Gunman_Bone05
+    100100: Gunman_Bone06
+    100102: Gunman_Bone07
+    100104: Gunman_Bone08
+    100106: Gunman_Bone10
+    100108: Gunman_Bone11
+    100110: Gunman_Bone13
+    100112: Gunman_Bone14
+    100114: Gunman_Bone16
+    100116: Gunman_Bone17
+    100118: Gunman_Bone19
+    100120: Gunman_Bone20
+    100122: Gunman_Bone32
+    100124: Gunman_Bone33
+    100126: Gunman_Bone34
+    100128: Gunman_Bone35
+    100130: Gunman_Bone36
+    100132: Gunman_Bone37
+    100134: Gunman_Bone38
+    100136: Gunman_Bone42
+    100138: Gunman_Bone43
+    100140: Gunman_Bone44
+    100142: Gunman_Bone45
+    100144: Gunman_Bone46
+    100146: Gunman_Bone47
+    100148: Gunman_Bone48
+    100150: Gunman_Bone49
+    100152: Gunman_Bone50
+    100154: Gunman_Bone51
+    100156: Gunman_BoneAll
+    100158: Hero_GunMan_Tiankong_02_Body
+    100160: //RootNode
+    100162: LClavicle
+    100164: LFoot
+    100166: LForearm
+    100168: LHand
+    100170: LWeapon
+    100172: Orign
+    100174: OrignBuff
+    100176: OverHead
+    100178: RClavicle
+    100180: RFoot
+    100182: RForearm
+    100184: RHand
+    100186: RWeapon
+    400000: Back
+    400002: Back_Gun
+    400004: Bip001
+    400006: Bip001 Head
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger12
+    400024: Bip001 L Finger2
+    400026: Bip001 L Finger21
+    400028: Bip001 L Finger22
+    400030: Bip001 L Foot
+    400032: Bip001 L Forearm
+    400034: Bip001 L Hand
+    400036: Bip001 L Thigh
+    400038: Bip001 L Toe0
+    400040: Bip001 L UpperArm
+    400042: Bip001 Neck
+    400044: Bip001 Pelvis
+    400046: Bip001 R Calf
+    400048: Bip001 R Clavicle
+    400050: Bip001 R Finger0
+    400052: Bip001 R Finger01
+    400054: Bip001 R Finger02
+    400056: Bip001 R Finger1
+    400058: Bip001 R Finger11
+    400060: Bip001 R Finger12
+    400062: Bip001 R Finger2
+    400064: Bip001 R Finger21
+    400066: Bip001 R Finger22
+    400068: Bip001 R Foot
+    400070: Bip001 R Forearm
+    400072: Bip001 R Hand
+    400074: Bip001 R Thigh
+    400076: Bip001 R Toe0
+    400078: Bip001 R UpperArm
+    400080: Bip001 Spine
+    400082: Bip001 Spine1
+    400084: Bip001 Spine2
+    400086: Body
+    400088: Crotch
+    400090: Gunman_Bone01
+    400092: Gunman_Bone02
+    400094: Gunman_Bone03
+    400096: Gunman_Bone04
+    400098: Gunman_Bone05
+    400100: Gunman_Bone06
+    400102: Gunman_Bone07
+    400104: Gunman_Bone08
+    400106: Gunman_Bone10
+    400108: Gunman_Bone11
+    400110: Gunman_Bone13
+    400112: Gunman_Bone14
+    400114: Gunman_Bone16
+    400116: Gunman_Bone17
+    400118: Gunman_Bone19
+    400120: Gunman_Bone20
+    400122: Gunman_Bone32
+    400124: Gunman_Bone33
+    400126: Gunman_Bone34
+    400128: Gunman_Bone35
+    400130: Gunman_Bone36
+    400132: Gunman_Bone37
+    400134: Gunman_Bone38
+    400136: Gunman_Bone42
+    400138: Gunman_Bone43
+    400140: Gunman_Bone44
+    400142: Gunman_Bone45
+    400144: Gunman_Bone46
+    400146: Gunman_Bone47
+    400148: Gunman_Bone48
+    400150: Gunman_Bone49
+    400152: Gunman_Bone50
+    400154: Gunman_Bone51
+    400156: Gunman_BoneAll
+    400158: Hero_GunMan_Tiankong_02_Body
+    400160: //RootNode
+    400162: LClavicle
+    400164: LFoot
+    400166: LForearm
+    400168: LHand
+    400170: LWeapon
+    400172: Orign
+    400174: OrignBuff
+    400176: OverHead
+    400178: RClavicle
+    400180: RFoot
+    400182: RForearm
+    400184: RHand
+    400186: RWeapon
+    4300000: Hero_GunMan_Tiankong_02_Body
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Hero_GunMan_Tiankong_02_Body
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

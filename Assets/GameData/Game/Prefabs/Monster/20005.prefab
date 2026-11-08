@@ -1,0 +1,1527 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4416111720990533041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414169688106023949}
+  m_Layer: 0
+  m_Name: OrignBuff
+  m_TagString: Dummy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414169688106023949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4416111720990533041}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+  m_LocalPosition: {x: 0.0076334476, y: 2.1803644, z: -0.18771768}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558832086395123}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4417487672083471991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558830997975019}
+  m_Layer: 0
+  m_Name: Body
+  m_TagString: Dummy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558830997975019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672083471991}
+  m_LocalRotation: {x: -0.058681685, y: 0.99827677, z: 0.00000008935862, w: 0.00000023357737}
+  m_LocalPosition: {x: -0.000000044703484, y: -0.00000017881393, z: 2.842171e-14}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4417487672105461217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558830989995511}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558830989995511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672105461217}
+  m_LocalRotation: {x: 0.8053118, y: 0.20425153, z: -0.50850356, w: -0.22622648}
+  m_LocalPosition: {x: -0.1441195, y: -0.015636742, z: 0.11900006}
+  m_LocalScale: {x: 0.99999905, y: 0.99999994, z: 0.99999946}
+  m_Children:
+  - {fileID: 4414558831759196179}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: -19.211449, y: -140.05824, z: 146.81995}
+--- !u!1 &4417487672177521821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833556364769}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone37
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833556364769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672177521821}
+  m_LocalRotation: {x: 0.000000029135498, y: -0.00000003492813, z: -0.06038969, w: 0.9981749}
+  m_LocalPosition: {x: -0.6046645, y: 0.000000059604645, z: -0.000000046866006}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558833353834107}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.6105607, y: 2.552853, z: -0.634452}
+--- !u!1 &4417487672197717521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833864260307}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone34
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833864260307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672197717521}
+  m_LocalRotation: {x: 0.000000033798806, y: 0.00000013161413, z: -0.8445839, w: 0.5354232}
+  m_LocalPosition: {x: -0.55690175, y: 0.00000014901161, z: 0.000000029802322}
+  m_LocalScale: {x: 1.0000004, y: 1, z: 0.99999964}
+  m_Children:
+  - {fileID: 4414558833579150897}
+  m_Father: {fileID: 4414558833978480427}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000006453198, y: -0.0000018628225, z: -109.195206}
+--- !u!1 &4417487672216545851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558832341329491}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558832341329491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672216545851}
+  m_LocalRotation: {x: 0.000000036211897, y: -0.0000003422319, z: 0.6500924, w: 0.75985515}
+  m_LocalPosition: {x: -0.3080944, y: 0, z: -0.000000029802322}
+  m_LocalScale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+  m_Children:
+  - {fileID: 4414558834845510661}
+  m_Father: {fileID: 4414558833826657229}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000026866466, y: -0.000032997348, z: 78.002754}
+--- !u!1 &4417487672232209727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831099649017}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831099649017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672232209727}
+  m_LocalRotation: {x: -0.00000043469996, y: 0.00000013967829, z: -0.000000044703413, w: 1}
+  m_LocalPosition: {x: -0.66869515, y: 0.00000017881393, z: -0.000000009313226}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 4414558833113257979}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.827365, y: 1.3590456, z: 9.806856}
+--- !u!1 &4417487672249123597
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833030128233}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone26
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833030128233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672249123597}
+  m_LocalRotation: {x: 0.000000008435442, y: -0.00000016741872, z: -0.8445836, w: 0.53542376}
+  m_LocalPosition: {x: -0.55690175, y: -0.0000004172325, z: -0.000000007450581}
+  m_LocalScale: {x: 1.0000002, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 4414558833159414027}
+  m_Father: {fileID: 4414558831759196179}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000012122945, y: -0.000016192102, z: -102.093185}
+--- !u!1 &4417487672438668091
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558834142352799}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558834142352799
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672438668091}
+  m_LocalRotation: {x: 0.8659659, y: 0.26528051, z: -0.37846166, w: -0.19103983}
+  m_LocalPosition: {x: -0.2596984, y: 0.0049328804, z: 0.11094385}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 1.0000005}
+  m_Children:
+  - {fileID: 4414558833082322403}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -24.856049, y: -155.63324, z: 148.3995}
+--- !u!1 &4417487672544359249
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831657570519}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831657570519
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672544359249}
+  m_LocalRotation: {x: -0.00000013894567, y: -0.0000002355148, z: -0.508127, w: 0.8612822}
+  m_LocalPosition: {x: -0.34657997, y: -0.00000029802322, z: 2.842171e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4414558832214815235}
+  - {fileID: 4414558833891054157}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -61.10094}
+--- !u!1 &4417487672644523771
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558834764101371}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558834764101371
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672644523771}
+  m_LocalRotation: {x: 0.11009479, y: 0.9939211, z: -0.00000029279957, w: -0.00000031628838}
+  m_LocalPosition: {x: -0.13819027, y: 0.03044182, z: 0.00000011920929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4414558833734129863}
+  - {fileID: 4414558831905897395}
+  - {fileID: 4414558833353834107}
+  m_Father: {fileID: 4414558832582075083}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000026363816, y: -179.99997, z: 12.641569}
+--- !u!1 &4417487672762670323
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833826657229}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833826657229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487672762670323}
+  m_LocalRotation: {x: 0.69195604, y: 0.17355733, z: -0.6411547, w: -0.2828345}
+  m_LocalPosition: {x: -0.03942991, y: -0.03362906, z: 0.1220001}
+  m_LocalScale: {x: 0.99999976, y: 0.9999995, z: 0.99999964}
+  m_Children:
+  - {fileID: 4414558832341329491}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: -11.234211, y: -94.63904, z: 139.64398}
+--- !u!1 &4417487673055632879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833891054157}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833891054157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673055632879}
+  m_LocalRotation: {x: -0.000000014230475, y: 0.000000301122, z: 0.64861697, w: 0.7611151}
+  m_LocalPosition: {x: -0.08145338, y: -0.00000008940697, z: -2.1316282e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558831657570519}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 80.91533}
+--- !u!1 &4417487673137627873
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831759196179}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone25
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831759196179
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673137627873}
+  m_LocalRotation: {x: 0.00000009357758, y: 0.00000014295676, z: 0.65009207, w: 0.75985545}
+  m_LocalPosition: {x: -0.3080945, y: 0.00000011920929, z: 0.000000037252903}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 4414558833030128233}
+  m_Father: {fileID: 4414558830989995511}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000005102871, y: 0.000019019279, z: 78.519714}
+--- !u!1 &4417487673316966697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558832434600993}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558832434600993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673316966697}
+  m_LocalRotation: {x: -0.19103996, y: -0.37846184, z: 0.26528075, w: 0.86596566}
+  m_LocalPosition: {x: -0.25969833, y: 0.0049329996, z: -0.11099965}
+  m_LocalScale: {x: 0.99999946, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 4414558831194175045}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -24.80811, y: -24.412577, z: 29.374308}
+--- !u!1 &4417487673540196421
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833985050061}
+  - component: {fileID: 4371628451521173453}
+  m_Layer: 0
+  m_Name: Monster_Zhizhu_Duzhizhu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833985050061
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673540196421}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558839289084889}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4371628451521173453
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673540196421}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 2
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: e51e1a0ebb73612478fc571e17cd20f3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: b9286d5869e6e354798a959699467a5d, type: 3}
+  m_Bones:
+  - {fileID: 4414558831657570519}
+  - {fileID: 4414558833734129863}
+  - {fileID: 4414558833353834107}
+  - {fileID: 4414558833556364769}
+  - {fileID: 4414558833864260307}
+  - {fileID: 4414558834764101371}
+  - {fileID: 4414558833530293081}
+  - {fileID: 4414558831878220281}
+  - {fileID: 4414558833975135271}
+  - {fileID: 4414558832434600993}
+  - {fileID: 4414558833891054157}
+  - {fileID: 4414558833978480427}
+  - {fileID: 4414558831905897395}
+  - {fileID: 4414558833826657229}
+  - {fileID: 4414558830989995511}
+  - {fileID: 4414558834142352799}
+  - {fileID: 4414558838855099889}
+  - {fileID: 4414558831194175045}
+  - {fileID: 4414558830773331963}
+  - {fileID: 4414558833616560905}
+  - {fileID: 4414558831092646113}
+  - {fileID: 4414558831815193517}
+  - {fileID: 4414558833113257979}
+  - {fileID: 4414558831099649017}
+  - {fileID: 4414558833366571395}
+  - {fileID: 4414558833678080813}
+  - {fileID: 4414558832127003329}
+  - {fileID: 4414558833082322403}
+  - {fileID: 4414558838857873253}
+  - {fileID: 4414558831759196179}
+  - {fileID: 4414558833030128233}
+  - {fileID: 4414558833159414027}
+  - {fileID: 4414558832341329491}
+  - {fileID: 4414558834845510661}
+  - {fileID: 4414558833170548875}
+  - {fileID: 4414558833579150897}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4414558834764101371}
+  m_AABB:
+    m_Center: {x: 0.3110515, y: 0.13762784, z: 0.0003221035}
+    m_Extent: {x: 1.5800966, y: 1.0778642, z: 1.2668438}
+  m_DirtyAABB: 0
+--- !u!1 &4417487673627658811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833082322403}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone07
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833082322403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673627658811}
+  m_LocalRotation: {x: 0.000000048781402, y: 0.000000016062527, z: 0.6311723, w: 0.77564263}
+  m_LocalPosition: {x: -0.28565782, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 4414558838857873253}
+  m_Father: {fileID: 4414558834142352799}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.3534929, y: 0.30206057, z: 80.43273}
+--- !u!1 &4417487673760716151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558830867201337}
+  m_Layer: 0
+  m_Name: Zhizhu_BoneAll
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558830867201337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673760716151}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_Children:
+  - {fileID: 4414558832086395123}
+  m_Father: {fileID: 4414558839289084889}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4417487673922693447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833978480427}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833978480427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673922693447}
+  m_LocalRotation: {x: 0.00000010441282, y: -0.00000006843184, z: 0.6500924, w: 0.75985515}
+  m_LocalPosition: {x: -0.3080945, y: 0, z: 0.000000044703484}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 1.0000002}
+  m_Children:
+  - {fileID: 4414558833864260307}
+  m_Father: {fileID: 4414558831905897395}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000006798715, y: 0.0000047294616, z: 80.01591}
+--- !u!1 &4417487673974349199
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833170548875}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone39
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833170548875
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487673974349199}
+  m_LocalRotation: {x: -0.0000005242325, y: 0.000000061598094, z: 0.00000028312203, w: 1}
+  m_LocalPosition: {x: -0.67094326, y: -0.00000017881393, z: -0.000000013038516}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558834845510661}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.027492, y: -1.1056828, z: -12.221955}
+--- !u!1 &4417487674112963081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833159414027}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone38
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833159414027
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674112963081}
+  m_LocalRotation: {x: 0.00012042331, y: 0.00012254876, z: 0.00000023856202, w: 1}
+  m_LocalPosition: {x: -0.649794, y: 0, z: 0.000000022351742}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 4414558833030128233}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 13.988598, y: -20.285236, z: -9.171655}
+--- !u!1 &4417487674202928723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833734129863}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833734129863
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674202928723}
+  m_LocalRotation: {x: -0.000000034497134, y: -0.00000018575291, z: -0.025215467, w: 0.99968207}
+  m_LocalPosition: {x: -0.39184147, y: -0.000000059604645, z: -0.00000014685132}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 4414558830997975019}
+  - {fileID: 4414558831657570519}
+  - {fileID: 4414558834142352799}
+  - {fileID: 4414558832434600993}
+  - {fileID: 4414558833975135271}
+  - {fileID: 4414558831878220281}
+  - {fileID: 4414558833826657229}
+  - {fileID: 4414558830989995511}
+  - {fileID: 4414558833530293081}
+  m_Father: {fileID: 4414558834764101371}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.18486798, y: 3.9314003, z: -2.8345318}
+--- !u!1 &4417487674470638315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558834845510661}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558834845510661
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674470638315}
+  m_LocalRotation: {x: 0.00000006022976, y: -0.000000012765576, z: -0.8445839, w: 0.5354233}
+  m_LocalPosition: {x: -0.5569018, y: 0.00000014901161, z: 0.00000017881393}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 4414558833170548875}
+  m_Father: {fileID: 4414558832341329491}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000047021368, y: -0.0000037078605, z: -97.33312}
+--- !u!1 &4417487674538730679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558832086395123}
+  m_Layer: 0
+  m_Name: Orign
+  m_TagString: Dummy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558832086395123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674538730679}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4414169688106023949}
+  - {fileID: 4414558832582075083}
+  m_Father: {fileID: 4414558830867201337}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4417487674586082783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558838857873253}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone08
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558838857873253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674586082783}
+  m_LocalRotation: {x: -0.036494277, y: -0.026653774, z: -0.7615729, w: 0.6465018}
+  m_LocalPosition: {x: -0.31812394, y: -0.000000029802322, z: 0.000000022351742}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558833082322403}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.864529, y: 4.5652404, z: -97.41474}
+--- !u!1 &4417487674632477915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558832214815235}
+  m_Layer: 0
+  m_Name: OverHead
+  m_TagString: Dummy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558832214815235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674632477915}
+  m_LocalRotation: {x: -0.4330812, y: 0.9013549, z: -0.00000078566563, w: -0.0000003322785}
+  m_LocalPosition: {x: -0.15827411, y: -0.06698546, z: 0.000000019441309}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558831657570519}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4417487674731640335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833975135271}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833975135271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674731640335}
+  m_LocalRotation: {x: -0.22622626, y: -0.5085033, z: 0.20425192, w: 0.80531186}
+  m_LocalPosition: {x: -0.14411952, y: -0.01563698, z: -0.12547362}
+  m_LocalScale: {x: 0.99999994, y: 0.9999995, z: 0.9999996}
+  m_Children:
+  - {fileID: 4414558838855099889}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -16.216457, y: -46.941456, z: 32.41344}
+--- !u!1 &4417487674748230565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831905897395}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831905897395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674748230565}
+  m_LocalRotation: {x: -0.48157123, y: -0.10783473, z: 0.786562, w: 0.37118864}
+  m_LocalPosition: {x: -0.34953126, y: -0.050301254, z: 0.164}
+  m_LocalScale: {x: 1.0000005, y: 0.99999994, z: 1.0000002}
+  m_Children:
+  - {fileID: 4414558833978480427}
+  m_Father: {fileID: 4414558834764101371}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.27730107, y: -43.09098, z: 132.03241}
+--- !u!1 &4417487674917331165
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833579150897}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone40
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833579150897
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674917331165}
+  m_LocalRotation: {x: -0.00000015844013, y: 0.000000132084, z: 0.00000029802314, w: 1}
+  m_LocalPosition: {x: -0.666174, y: 0, z: -0.00000008195639}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 4414558833864260307}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -12.297664, y: 14.054694, z: -4.7018175}
+--- !u!1 &4417487674998805617
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558830773331963}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558830773331963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487674998805617}
+  m_LocalRotation: {x: 0.036511805, y: -0.026607918, z: 0.76090646, w: 0.64728683}
+  m_LocalPosition: {x: -0.3163222, y: 0.000000059604645, z: -0.00000017136335}
+  m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 4414558831194175045}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 6.5710583, y: -2.4688814, z: 101.21945}
+--- !u!1 &4417487675040254801
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831092646113}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831092646113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675040254801}
+  m_LocalRotation: {x: -0.00000085946664, y: 0.00000033333404, z: -0.000000029802036, w: 1}
+  m_LocalPosition: {x: -0.64785206, y: -0.00000011920929, z: 0.000000014901161}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558833616560905}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -17.112627, y: -18.452856, z: 8.065315}
+--- !u!1 &4417487675089447189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831194175045}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831194175045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675089447189}
+  m_LocalRotation: {x: 0.00000017564619, y: 0.0000002834976, z: -0.6318045, w: 0.77512777}
+  m_LocalPosition: {x: -0.2856577, y: 0.000000059604645, z: 0.00000014156103}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 4414558830773331963}
+  m_Father: {fileID: 4414558832434600993}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.50278723, y: -0.1761505, z: -77.660255}
+--- !u!1 &4417487675256338093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833616560905}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833616560905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675256338093}
+  m_LocalRotation: {x: 0.000000013558014, y: 0.000000018739184, z: 0.8445837, w: 0.5354236}
+  m_LocalPosition: {x: -0.5569017, y: -0.000000029802322, z: -0.000000029802322}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 4414558831092646113}
+  m_Father: {fileID: 4414558838855099889}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000015871287, y: 0.000005302906, z: 104.99459}
+--- !u!1 &4417487675450999833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833353834107}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone36
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833353834107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675450999833}
+  m_LocalRotation: {x: -0.00000022514837, y: 0.00000011744943, z: 0.99164397, w: 0.12900499}
+  m_LocalPosition: {x: 0.001488924, y: -0.0008393526, z: 2.842171e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4414558833556364769}
+  m_Father: {fileID: 4414558834764101371}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -7.172338, y: -8.065626, z: 164.95311}
+--- !u!1 &4417487675455971545
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558832127003329}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558832127003329
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675455971545}
+  m_LocalRotation: {x: -0.00000021916337, y: 0.00000013086388, z: 0.000000089406996, w: 1}
+  m_LocalPosition: {x: -0.66275287, y: 0.00000011920929, z: 0.00000008195639}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4414558833678080813}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 12.298588, y: 17.023039, z: 3.0475357}
+--- !u!1 &4417487675479383409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833366571395}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone29
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833366571395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675479383409}
+  m_LocalRotation: {x: -0.0000000032186107, y: -0.000000084177366, z: -0.65009236, w: 0.7598552}
+  m_LocalPosition: {x: -0.3080945, y: 0, z: -0.000000022351742}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 4414558833678080813}
+  m_Father: {fileID: 4414558833530293081}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000008966281, y: -0.0000049680775, z: -80.27649}
+--- !u!1 &4417487675617438761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833530293081}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone28
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833530293081
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675617438761}
+  m_LocalRotation: {x: 0.35123667, y: 0.7956715, z: -0.11994428, w: -0.4786993}
+  m_LocalPosition: {x: 0.044792473, y: -0.048104346, z: -0.16448529}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1}
+  m_Children:
+  - {fileID: 4414558833366571395}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 4.948682, y: -141.24994, z: 45.905453}
+--- !u!1 &4417487675768586403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558839289084889}
+  - component: {fileID: 4379419575145028807}
+  - component: {fileID: 7165729178468399559}
+  - component: {fileID: 3490222817674167270}
+  m_Layer: 0
+  m_Name: 20005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558839289084889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675768586403}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4414558833985050061}
+  - {fileID: 4414558830867201337}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &4379419575145028807
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675768586403}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 7b11ffd1a9bba554fa6bce572fe8dbe4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 7b11ffd1a9bba554fa6bce572fe8dbe4, type: 2}
+  - {fileID: 7400000, guid: 909cad87ea6222b458b5379788fa6b75, type: 2}
+  - {fileID: 7400000, guid: 74bce0590c1bac345a50f216e8727749, type: 2}
+  - {fileID: 7400000, guid: 9bf1c7782509e8a4dacd3c85388665ad, type: 2}
+  - {fileID: 7400000, guid: f586f2937851da54492787a3bcc59158, type: 2}
+  - {fileID: 7400000, guid: 76bb291f15c08a04c98f2174a4203104, type: 2}
+  - {fileID: 7400000, guid: 94acbfec19d65a9498ee0f288edacfba, type: 2}
+  - {fileID: 7400000, guid: b808f6572f3bae74dbccae2675f16f0d, type: 2}
+  - {fileID: 7400000, guid: f455a970fbc8ed94d838998c14bef687, type: 2}
+  - {fileID: 7400000, guid: 7fd63df65b47ea74899ab27593ae0d50, type: 2}
+  - {fileID: 7400000, guid: 7b11ffd1a9bba554fa6bce572fe8dbe4, type: 2}
+  - {fileID: 7400000, guid: ef33cb8b4dff45f4989e3de1e6d89ecf, type: 2}
+  - {fileID: 7400000, guid: ca7db0e4582dddd419893de36d06e799, type: 2}
+  - {fileID: 7400000, guid: ca35fee4d94e5b942bb15e2e016cee68, type: 2}
+  - {fileID: 7400000, guid: 727e8911afa555d4fb187b3d3cb70af0, type: 2}
+  - {fileID: 7400000, guid: 96acd10c8b3fc3840a27a3d68d812f33, type: 2}
+  - {fileID: 7400000, guid: 8969593a1adfc954c90b0151c278e6ec, type: 2}
+  - {fileID: 7400000, guid: 9cef88a4a8272a04aa749f5dd1cf4836, type: 2}
+  - {fileID: 7400000, guid: 3f439d8a8700fca4c88df79f02a8ee7b, type: 2}
+  - {fileID: 7400000, guid: 455becad9f1ce5440a76c80eafe78b02, type: 2}
+  - {fileID: 7400000, guid: 3bf36eef1a3974140aed2aef03604049, type: 2}
+  - {fileID: 7400000, guid: f36af7f8d6d366b4f8fe2a9b4c66ee4d, type: 2}
+  - {fileID: 7400000, guid: 542ddf724e49ae5459e2977d8ed1c2eb, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 1
+--- !u!114 &7165729178468399559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675768586403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65a22902c96964887f0d4b0eb44a4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mConter: {x: -0.3, y: 0.6, z: 0}
+  mSize: {x: 1.7, y: 1.3, z: 1.3}
+--- !u!114 &3490222817674167270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487675768586403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c54f182a5af3d459549aee260ef4d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mIsPreDictPos: 1
+  mSmoothPosSpeed: 10
+  mRotateSmoothSpeed: 10
+  mAngleMutiple: 0
+  mMaxPredictFrameCount: 15
+  mAnim: {fileID: 4379419575145028807}
+--- !u!1 &4417487676058876349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831878220281}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831878220281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487676058876349}
+  m_LocalRotation: {x: -0.28304425, y: -0.64119214, z: 0.17336035, w: 0.69188505}
+  m_LocalPosition: {x: -0.039429806, y: -0.03362924, z: -0.122054875}
+  m_LocalScale: {x: 1.0000006, y: 0.9999996, z: 0.9999997}
+  m_Children:
+  - {fileID: 4414558831815193517}
+  m_Father: {fileID: 4414558833734129863}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: -8.218634, y: -92.81433, z: 39.458164}
+--- !u!1 &4417487676078784759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833113257979}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833113257979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487676078784759}
+  m_LocalRotation: {x: 0.000000017729855, y: 0.0000000279708, z: 0.84458375, w: 0.53542346}
+  m_LocalPosition: {x: -0.55690193, y: -0.00000008940697, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 4414558831099649017}
+  m_Father: {fileID: 4414558831815193517}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000005236855, y: 0.0000027746453, z: 101.4684}
+--- !u!1 &4417487676152956061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558832582075083}
+  m_Layer: 0
+  m_Name: Zhizhu_K_All
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558832582075083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487676152956061}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.251381, y: 0.7204918, z: -0.000000059604645}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4414558834764101371}
+  m_Father: {fileID: 4414558832086395123}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4417487676197665265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558833678080813}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558833678080813
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487676197665265}
+  m_LocalRotation: {x: 0.000000020428748, y: 3.639133e-10, z: 0.84458375, w: 0.53542346}
+  m_LocalPosition: {x: -0.5569017, y: -0.000000059604645, z: -0.000000029802322}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 4414558832127003329}
+  m_Father: {fileID: 4414558833366571395}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000011606129, y: 0.0000048694487, z: 111.0077}
+--- !u!1 &4417487676273783745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558838855099889}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558838855099889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487676273783745}
+  m_LocalRotation: {x: -0.000000018565517, y: -0.00000008078132, z: -0.65009236, w: 0.7598552}
+  m_LocalPosition: {x: -0.30809447, y: 0, z: -0.000000022351742}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 4414558833616560905}
+  m_Father: {fileID: 4414558833975135271}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000037116852, y: -0.000005472381, z: -79.35687}
+--- !u!1 &4417487680189647525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4414558831815193517}
+  m_Layer: 0
+  m_Name: Zhizhu_Bone17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414558831815193517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417487680189647525}
+  m_LocalRotation: {x: -0.000000010629488, y: -0.00000007403517, z: -0.65009236, w: 0.7598552}
+  m_LocalPosition: {x: -0.30809462, y: 0, z: -0.000000027939677}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 4414558833113257979}
+  m_Father: {fileID: 4414558831878220281}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000008120054, y: -0.000007581772, z: -78.74945}

@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: ceb7f9d500b91704a8e906af138dc4a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: All
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone005
+    100010: Bone006
+    100012: Bone008
+    100014: Bone009
+    100016: Bone011
+    100018: Bone012
+    100020: Bone013
+    100022: Bone015
+    100024: Bone016
+    100026: Bone017
+    100028: Bone018
+    100030: Bone020
+    100032: Bone021
+    100034: Bone022
+    100036: Bone024
+    100038: Bone025
+    100040: Bone026
+    100042: Bone027
+    100044: Bone029
+    100046: Bone030
+    100048: Bone031
+    100050: Bone033
+    100052: Bone034
+    100054: Bone035
+    100056: //RootNode
+    100058: Orign
+    100060: OrignBuff
+    100062: OverHead
+    100064: Pet_zhuque
+    100066: Zhuque_BoneAll
+    400000: All
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone005
+    400010: Bone006
+    400012: Bone008
+    400014: Bone009
+    400016: Bone011
+    400018: Bone012
+    400020: Bone013
+    400022: Bone015
+    400024: Bone016
+    400026: Bone017
+    400028: Bone018
+    400030: Bone020
+    400032: Bone021
+    400034: Bone022
+    400036: Bone024
+    400038: Bone025
+    400040: Bone026
+    400042: Bone027
+    400044: Bone029
+    400046: Bone030
+    400048: Bone031
+    400050: Bone033
+    400052: Bone034
+    400054: Bone035
+    400056: //RootNode
+    400058: Orign
+    400060: OrignBuff
+    400062: OverHead
+    400064: Pet_zhuque
+    400066: Zhuque_BoneAll
+    4300000: Pet_zhuque
+    7400000: Anim_Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Pet_zhuque
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Pet_zhuque
+    second: {fileID: 2100000, guid: cd984f094b24ce34694f5af4a5ade198, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Anim_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pet_zhuque
+        weight: 1
+      - path: Zhuque_BoneAll
+        weight: 1
+      - path: Zhuque_BoneAll/Orign
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone003/Bone005
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone003/Bone005/Bone006
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone003/Bone008
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone003/Bone008/Bone009
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone003/OverHead
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone011
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone011/Bone012
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone015
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone015/Bone016
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone015/Bone016/Bone017
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone015/Bone016/Bone017/Bone018
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone020
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone020/Bone021
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone020/Bone021/Bone022
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone024
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone024/Bone025
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone024/Bone025/Bone026
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone001/Bone002/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone029
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone029/Bone030
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone029/Bone030/Bone031
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone033
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone033/Bone034
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/All/Bone033/Bone034/Bone035
+        weight: 1
+      - path: Zhuque_BoneAll/Orign/OrignBuff
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: a4174040f13f4dc4ab3ec6461334bfd3
+timeCreated: 1493016263
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Flower_Bone01
+    100002: Flower_Bone02
+    100004: Flower_Bone03
+    100006: Flower_Bone04
+    100008: Flower_Bone05
+    100010: Flower_Bone06
+    100012: Flower_Bone07
+    100014: Flower_Bone08
+    100016: Flower_Bone09
+    100018: Flower_Bone10
+    100020: Flower_Bone11
+    100022: Flower_Bone12
+    100024: Flower_Bone13
+    100026: Flower_Bone14
+    100028: Flower_Bone15
+    100030: Flower_Bone16
+    100032: Flower_Dummy001
+    100034: H_Dungeon_Flower_002
+    100036: //RootNode
+    100038: Ci_Bone01
+    100040: H_Dungeon_Flower_003
+    400000: Flower_Bone01
+    400002: Flower_Bone02
+    400004: Flower_Bone03
+    400006: Flower_Bone04
+    400008: Flower_Bone05
+    400010: Flower_Bone06
+    400012: Flower_Bone07
+    400014: Flower_Bone08
+    400016: Flower_Bone09
+    400018: Flower_Bone10
+    400020: Flower_Bone11
+    400022: Flower_Bone12
+    400024: Flower_Bone13
+    400026: Flower_Bone14
+    400028: Flower_Bone15
+    400030: Flower_Bone16
+    400032: Flower_Dummy001
+    400034: //RootNode
+    400036: H_Dungeon_Flower_002
+    400038: Ci_Bone01
+    400040: H_Dungeon_Flower_003
+    4300000: H_Dungeon_Flower_002
+    4300002: H_Dungeon_Flower_003
+    7400000: Anim_Idle
+    7400002: Anim_Attack_01
+    7400004: Anim_Attack_02
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: H_Dungeon_Flower_002
+    13700002: H_Dungeon_Flower_003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Anim_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ci_Bone01
+        weight: 1
+      - path: Flower_Bone01
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone04
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone04/Flower_Bone05
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone06
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone06/Flower_Bone07
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone08
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone08/Flower_Bone09
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone10
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone10/Flower_Bone11
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone12
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone12/Flower_Bone13
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone14
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone14/Flower_Bone15
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone16
+        weight: 1
+      - path: H_Dungeon_Flower_002
+        weight: 1
+      - path: H_Dungeon_Flower_003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Attack_01
+      takeName: Take 001
+      firstFrame: 13
+      lastFrame: 17
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ci_Bone01
+        weight: 1
+      - path: Flower_Bone01
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone04
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone04/Flower_Bone05
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone06
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone06/Flower_Bone07
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone08
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone08/Flower_Bone09
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone10
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone10/Flower_Bone11
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone12
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone12/Flower_Bone13
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone14
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone14/Flower_Bone15
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone16
+        weight: 1
+      - path: H_Dungeon_Flower_002
+        weight: 1
+      - path: H_Dungeon_Flower_003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Anim_Attack_02
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 21
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ci_Bone01
+        weight: 1
+      - path: Flower_Bone01
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone04
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone04/Flower_Bone05
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone06
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone06/Flower_Bone07
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone08
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone08/Flower_Bone09
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone10
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone10/Flower_Bone11
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone12
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone12/Flower_Bone13
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone14
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone14/Flower_Bone15
+        weight: 1
+      - path: Flower_Bone01/Flower_Bone02/Flower_Bone03/Flower_Dummy001/Flower_Bone16
+        weight: 1
+      - path: H_Dungeon_Flower_002
+        weight: 1
+      - path: H_Dungeon_Flower_003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,126 @@
+{
+  "bundleInfoList": [
+    {
+      "path": "Assets/Fonts/7000汉字 符号 英文字符集.txt",
+      "crc": 386926014,
+      "bundleName": "font",
+      "assetName": "7000汉字 符号 英文字符集.txt",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Fonts/zh-cn_textFont.otf",
+      "crc": 800120685,
+      "bundleName": "font",
+      "assetName": "zh-cn_textFont.otf",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Common/CDMask.png",
+      "crc": 3653429090,
+      "bundleName": "hall_common",
+      "assetName": "CDMask.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Common/p_UI_Common00.png",
+      "crc": 3148745269,
+      "bundleName": "hall_common",
+      "assetName": "p_UI_Common00.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Common/p_UI_Common00.tpsheet",
+      "crc": 546186080,
+      "bundleName": "hall_common",
+      "assetName": "p_UI_Common00.tpsheet",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/CreateRole/loading-5.jpg",
+      "crc": 3813991849,
+      "bundleName": "hall_createrole",
+      "assetName": "loading-5.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/CreateRole/p_UI_Creat.png",
+      "crc": 3401621864,
+      "bundleName": "hall_createrole",
+      "assetName": "p_UI_Creat.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/CreateRole/p_UI_CustomizeGiftbag.tpsheet",
+      "crc": 110106850,
+      "bundleName": "hall_createrole",
+      "assetName": "p_UI_CustomizeGiftbag.tpsheet",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/CreateRole/p_UI_Login.png",
+      "crc": 2740672036,
+      "bundleName": "hall_createrole",
+      "assetName": "p_UI_Login.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/CreateRole/UI_Beijing_Jineng_Di.png",
+      "crc": 2813158064,
+      "bundleName": "hall_createrole",
+      "assetName": "UI_Beijing_Jineng_Di.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/HeadFrame/p_UI_Touxiangkuang.png",
+      "crc": 2124023479,
+      "bundleName": "hall_headframe",
+      "assetName": "p_UI_Touxiangkuang.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/HeadFrame/p_UI_Touxiangkuang.tpsheet",
+      "crc": 1054892412,
+      "bundleName": "hall_headframe",
+      "assetName": "p_UI_Touxiangkuang.tpsheet",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Loading/Loading1.jpg",
+      "crc": 2314849635,
+      "bundleName": "hall_loading",
+      "assetName": "Loading1.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Loading/Loading2.jpg",
+      "crc": 3461986227,
+      "bundleName": "hall_loading",
+      "assetName": "Loading2.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Loading/loading3.jpg",
+      "crc": 3943187963,
+      "bundleName": "hall_loading",
+      "assetName": "loading3.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Textures/Loading/loading4.jpg",
+      "crc": 1495833067,
+      "bundleName": "hall_loading",
+      "assetName": "loading4.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/Prefabs/Window/LoadingWindow.prefab",
+      "crc": 92158747,
+      "bundleName": "hall_loadingwindow",
+      "assetName": "LoadingWindow.prefab",
+      "bundleDependce": [
+        "hall_loading",
+        "hall_common"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3392 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Anim_Tiao_04
+  serializedVersion: 7
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.05433381, y: 0.9985228, z: -0.00000013296136, w: -0.000000007234984}
+        inSlope: {x: 4.7240343, y: 0.34176442, z: -0.00000004550856, w: -0.00000062904326}
+        outSlope: {x: 4.7240343, y: 0.34176442, z: -0.00000004550856, w: -0.00000062904326}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.08621547, y: 0.9962765, z: -0.00000013266224, w: -0.000000011480284}
+        inSlope: {x: -0.097803056, y: 0.00500232, z: -6.661338e-10, w: 0.000000013023261}
+        outSlope: {x: -0.097803056, y: 0.00500232, z: -6.661338e-10, w: 0.000000013023261}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.009341035, y: 0.99995637, z: -0.00000013315224, w: -0.000000001243834}
+        inSlope: {x: -0.5770886, y: 0.016500952, z: -0.0000000021970694, w: 0.000000076843996}
+        outSlope: {x: -0.5770886, y: 0.016500952, z: -0.0000000021970694, w: 0.000000076843996}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.95028573, y: 0.0065285414, z: -0.21526794, w: -0.22488695}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.95028573, y: 0.0065285414, z: -0.21526794, w: -0.22488695}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.01997456, y: 0.06395298, z: 0.52214026, w: 0.85022384}
+        inSlope: {x: 0.027898747, y: -0.09789488, z: -0.10612429, w: 0.073281534}
+        outSlope: {x: 0.027898747, y: -0.09789488, z: -0.10612429, w: 0.073281534}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.0182064, y: 0.058159914, z: 0.5158104, w: 0.85453236}
+        inSlope: {x: 0.0037010016, y: -0.011455101, z: -0.01259476, w: 0.008473993}
+        outSlope: {x: 0.0037010016, y: -0.011455101, z: -0.01259476, w: 0.008473993}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02/Zhizhuwang_Bone03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.08365423, y: 0.05414951, z: 0.9532176, w: -0.28538743}
+        inSlope: {x: 0.25301972, y: -0.42317277, z: 0.059026487, w: 0.04059032}
+        outSlope: {x: 0.25301972, y: -0.42317277, z: 0.059026487, w: 0.04059032}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.06877276, y: 0.028096434, z: 0.95645696, w: -0.28226057}
+        inSlope: {x: 0.029244462, y: -0.053214807, z: 0.00597328, w: 0.007372052}
+        outSlope: {x: 0.029244462, y: -0.053214807, z: 0.00597328, w: 0.007372052}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02/Zhizhuwang_Bone03/Zhizhuwang_Bone04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.18728134, y: -0.20029014, z: 0.03868218, w: 0.9608919}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.18728134, y: -0.20029014, z: 0.03868218, w: 0.9608919}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.012205478, y: 0.068710044, z: -0.5632138, w: 0.8233591}
+        inSlope: {x: -0.023114845, y: -0.07452865, z: 0.09538562, w: 0.07187963}
+        outSlope: {x: -0.023114845, y: -0.07452865, z: 0.09538562, w: 0.07187963}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.010736625, y: 0.064301655, z: -0.55752397, w: 0.82759714}
+        inSlope: {x: -0.003079721, y: -0.0087138275, z: 0.011322499, w: 0.008355976}
+        outSlope: {x: -0.003079721, y: -0.0087138275, z: 0.011322499, w: 0.008355976}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05/Zhizhuwang_Bone06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.10038049, y: -0.022988083, z: 0.9462295, w: 0.30666772}
+        inSlope: {x: 0.25161436, y: 0.40866232, z: 0.05384088, w: -0.05133838}
+        outSlope: {x: 0.25161436, y: 0.40866232, z: 0.05384088, w: -0.05133838}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.08547233, y: 0.0022759903, z: 0.9491471, w: 0.30300024}
+        inSlope: {x: 0.029488208, y: 0.051771335, z: 0.005306304, w: -0.008289815}
+        outSlope: {x: 0.029488208, y: 0.051771335, z: 0.005306304, w: -0.008289815}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05/Zhizhuwang_Bone06/Zhizhuwang_Bone07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0252912, y: -0.7007679, z: -0.061931964, w: 0.71024585}
+        inSlope: {x: -0.4317559, y: 0.7900474, z: -5.593746, w: 2.86933}
+        outSlope: {x: -0.4317559, y: 0.7900474, z: -5.593746, w: 2.86933}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.1344756, y: -0.6766443, z: 0.04508172, w: 0.7225208}
+        inSlope: {x: -1.1345546, y: 0.055553913, z: 1.1807692, w: -0.00862062}
+        outSlope: {x: -1.1345546, y: 0.055553913, z: 1.1807692, w: -0.00862062}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.10092817, y: -0.6970643, z: 0.016785976, w: 0.70967114}
+        inSlope: {x: 0.9905646, y: -0.5375067, z: -0.8582881, w: -0.36416087}
+        outSlope: {x: 0.9905646, y: -0.5375067, z: -0.8582881, w: -0.36416087}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.06843797, y: -0.7124781, z: -0.012137484, w: 0.69824344}
+        inSlope: {x: 0.48735306, y: -0.23120733, z: -0.43385193, w: -0.17141552}
+        outSlope: {x: 0.48735306, y: -0.23120733, z: -0.43385193, w: -0.17141552}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000005686871, y: -0.00000003426094, z: -0.51604223, w: 0.85656315}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.00000005686871, y: -0.00000003426094, z: -0.51604223, w: 0.85656315}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000000010918507, y: 3.2368633e-10, z: 0.82481104, w: 0.56540847}
+        inSlope: {x: -0.0000000063536416, y: 0.000000039999456, z: -0.5742217, w: 0.79599655}
+        outSlope: {x: -0.0000000063536416, y: 0.000000039999456, z: -0.5742217, w: 0.79599655}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.0000000012105021, y: 0.0000000015672785, z: 0.7914259, w: 0.6112651}
+        inSlope: {x: -0.000000011854793, y: 0.0000000012782824, z: -0.29961085, w: 0.42131248}
+        outSlope: {x: -0.000000011854793, y: 0.0000000012782824, z: -0.29961085, w: 0.42131248}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 3.015313e-10, y: 4.089051e-10, z: 0.804837, w: 0.59349597}
+        inSlope: {x: -0.000000018157532, y: -0.000000023509179, z: 0.3504986, w: -0.47268575}
+        outSlope: {x: -0.000000018157532, y: -0.000000023509179, z: 0.3504986, w: -0.47268575}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0, y: 0, z: 0.81479245, w: 0.57975274}
+        inSlope: {x: -0.0000000045229696, y: -0.0000000061335768, z: 0.149332, w: -0.20614834}
+        outSlope: {x: -0.0000000045229696, y: -0.0000000061335768, z: 0.149332, w: -0.20614834}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09/Zhizhuwang_Bone10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 6.9388877e-18, y: -1.03397496e-25, z: -0.000000014901163, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 6.9388877e-18, y: -1.03397496e-25, z: -0.000000014901163, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09/Zhizhuwang_Bone10/Zhizhuwang_Bone11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.045913175, y: 0.88029313, z: 0.033498585, w: -0.47101367}
+        inSlope: {x: -1.7484326, y: -0.48979554, z: 0.9536607, w: -2.3250816}
+        outSlope: {x: -1.7484326, y: -0.48979554, z: 0.9536607, w: -2.3250816}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.19439057, y: 0.8535274, z: -0.04317379, w: -0.48149705}
+        inSlope: {x: 1.3155959, y: -0.1100716, z: -0.71953714, w: 0.03140554}
+        outSlope: {x: 1.3155959, y: -0.1100716, z: -0.71953714, w: 0.03140554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.13361956, y: 0.872955, z: -0.014470553, w: -0.46891996}
+        inSlope: {x: -1.7764949, y: 0.47476178, z: 0.87244886, w: 0.34098166}
+        outSlope: {x: -1.7764949, y: 0.47476178, z: 0.87244886, w: 0.34098166}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.07595758, y: 0.8851782, z: 0.014989463, w: -0.45876494}
+        inSlope: {x: -0.86492974, y: 0.18334778, z: 0.44190028, w: 0.15232535}
+        outSlope: {x: -0.86492974, y: 0.18334778, z: 0.44190028, w: 0.15232535}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000052587414, y: -0.00000003251159, z: -0.52585727, w: 0.8505728}
+        inSlope: {x: -0.00000007797145, y: 0.0000004964351, z: -0.839514, w: -0.4845706}
+        outSlope: {x: -0.00000007797145, y: 0.0000004964351, z: -0.839514, w: -0.4845706}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.000000049007387, y: -0.000000030439523, z: -0.5276274, w: 0.8494759}
+        inSlope: {x: -0.000000019878819, y: -0.00000007942367, z: -0.020464363, w: -0.0126743335}
+        outSlope: {x: -0.000000019878819, y: -0.00000007942367, z: -0.020464363, w: -0.0126743335}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.000000046769188, y: -0.00000002900189, z: -0.5270052, w: 0.84986204}
+        inSlope: {x: -0.00000006739457, y: 0.00000013206916, z: 0.0032454731, w: 0.002012551}
+        outSlope: {x: -0.00000006739457, y: 0.00000013206916, z: 0.0032454731, w: 0.002012551}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000002448757, y: 0.00000003332243, z: 0.8058151, w: 0.59216726}
+        inSlope: {x: -0.00000064304885, y: 0.00000039113652, z: 5.1782117, w: -4.0540614}
+        outSlope: {x: -0.00000064304885, y: 0.00000039113652, z: 5.1782117, w: -4.0540614}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.000000030305607, y: 0.000000037053304, z: 0.77406716, w: 0.6331035}
+        inSlope: {x: 0.00000029085345, y: 0.00000033075972, z: -0.3237936, w: 0.42456603}
+        outSlope: {x: 0.00000029085345, y: 0.00000033075972, z: -0.3237936, w: 0.42456603}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.000000043877797, y: 0.000000055373075, z: 0.78422886, w: 0.62047166}
+        inSlope: {x: 0.00000006732424, y: -0.000000019148615, z: 0.23238394, w: -0.29143992}
+        outSlope: {x: 0.00000006732424, y: -0.000000019148615, z: 0.23238394, w: -0.29143992}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.00000003479389, y: 0.00000003577673, z: 0.7895594, w: 0.61367416}
+        inSlope: {x: -0.00000013625863, y: -0.0000002939452, z: 0.07995845, w: -0.101962395}
+        outSlope: {x: -0.00000013625863, y: -0.0000002939452, z: 0.07995845, w: -0.101962395}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13/Zhizhuwang_Bone14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000096624724, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.000000096624724, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13/Zhizhuwang_Bone14/Zhizhuwang_Bone15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.050540533, y: -0.4506826, z: -0.007674414, w: 0.8912194}
+        inSlope: {x: -0.5914979, y: 0.15412466, z: 1.2561868, w: -0.061912544}
+        outSlope: {x: -0.5914979, y: 0.15412466, z: 1.2561868, w: -0.061912544}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.10194292, y: -0.42855892, z: 0.10043657, w: 0.8921084}
+        inSlope: {x: -0.6468893, y: 0.08737923, z: 1.4085222, w: -0.070695885}
+        outSlope: {x: -0.6468893, y: 0.08737923, z: 1.4085222, w: -0.070695885}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.09366649, y: -0.44485733, z: 0.08622707, w: 0.8865063}
+        inSlope: {x: 0.6743364, y: -0.43982285, z: -1.2828686, w: -0.07572413}
+        outSlope: {x: 0.6743364, y: -0.43982285, z: -1.2828686, w: -0.07572413}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.056987166, y: -0.45788044, z: 0.014911992, w: 0.8870601}
+        inSlope: {x: 0.55018985, y: -0.19534664, z: -1.0697261, w: 0.008306802}
+        outSlope: {x: 0.55018985, y: -0.19534664, z: -1.0697261, w: 0.008306802}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0076526976, y: -0.013538135, z: -0.51983047, w: 0.8541279}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.0076526976, y: -0.013538135, z: -0.51983047, w: 0.8541279}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.012831176, y: 0.011392603, z: 0.7541772, w: 0.6564467}
+        inSlope: {x: 0.016919795, y: 0.09171392, z: -3.0730598, w: 4.4788456}
+        outSlope: {x: 0.016919795, y: 0.09171392, z: -3.0730598, w: 4.4788456}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.011926953, y: 0.012116266, z: 0.70846707, w: 0.70553905}
+        inSlope: {x: 0.0066808523, y: 0.0063455203, z: -0.3590611, w: 0.39794597}
+        outSlope: {x: 0.0066808523, y: 0.0063455203, z: -0.3590611, w: 0.39794597}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.012385786, y: 0.011815637, z: 0.7302398, w: 0.6829764}
+        inSlope: {x: -0.026580203, y: -0.036417615, z: 1.7046306, w: -2.046844}
+        outSlope: {x: -0.026580203, y: -0.036417615, z: 1.7046306, w: -2.046844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.013698966, y: 0.009688426, z: 0.8221091, w: 0.5690828}
+        inSlope: {x: -0.01969771, y: -0.031908177, z: 1.3780395, w: -1.7084045}
+        outSlope: {x: -0.01969771, y: -0.031908177, z: 1.3780395, w: -1.7084045}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17/Zhizhuwang_Bone18
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000002514571, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.00000002514571, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17/Zhizhuwang_Bone18/Zhizhuwang_Bone19
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.89758635, y: -0.05365078, z: -0.43653253, w: -0.029994337}
+        inSlope: {x: 0.5524922, y: 0.9720775, z: 1.2509784, w: -1.2588559}
+        outSlope: {x: 0.5524922, y: 0.9720775, z: 1.2509784, w: -1.2588559}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.9028786, y: 0.061668184, z: -0.41654938, w: -0.086567976}
+        inSlope: {x: -0.060423024, y: 1.25668, z: -0.09396449, w: -0.5649028}
+        outSlope: {x: -0.060423024, y: 1.25668, z: -0.09396449, w: -0.5649028}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.89355814, y: 0.030127881, z: -0.44279683, w: -0.06765452}
+        inSlope: {x: -0.2372745, y: -0.7013546, z: -0.6199618, w: 0.44370613}
+        outSlope: {x: -0.2372745, y: -0.7013546, z: -0.6199618, w: 0.44370613}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.8870603, y: 0.014911213, z: -0.45788017, w: -0.05698757}
+        inSlope: {x: -0.09746791, y: -0.22825004, z: -0.22625016, w: 0.16000429}
+        outSlope: {x: -0.09746791, y: -0.22825004, z: -0.22625016, w: 0.16000429}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0078486055, y: -0.013114493, z: 0.5177439, w: 0.85539913}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.0078486055, y: -0.013114493, z: 0.5177439, w: 0.85539913}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.01356579, y: -0.010151416, z: 0.80647653, w: -0.5910234}
+        inSlope: {x: -0.022066396, y: -0.10736082, z: -2.751142, w: -4.936912}
+        outSlope: {x: -0.022066396, y: -0.10736082, z: -2.751142, w: -4.936912}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.013036046, y: -0.011151002, z: 0.7661733, w: -0.6424051}
+        inSlope: {x: -0.00020918436, y: 0.0005492242, z: 0.019750893, w: 0.027010739}
+        outSlope: {x: -0.00020918436, y: 0.0005492242, z: 0.019750893, w: 0.027010739}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.0135797355, y: -0.010114801, z: 0.80779326, w: -0.58922267}
+        inSlope: {x: -0.009940072, y: 0.021939563, z: 0.8390335, w: 1.09983}
+        outSlope: {x: -0.009940072, y: 0.021939563, z: 0.8390335, w: 1.09983}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.013698718, y: -0.009688364, z: 0.82210886, w: -0.5690831}
+        inSlope: {x: -0.0017847308, y: 0.006396552, z: 0.21473409, w: 0.30209365}
+        outSlope: {x: -0.0017847308, y: 0.006396552, z: 0.21473409, w: 0.30209365}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21/Zhizhuwang_Bone22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000043772157, y: 0.0000007152558, z: 0.00000023841855, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.000000043772157, y: 0.0000007152558, z: 0.00000023841855, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21/Zhizhuwang_Bone22/Zhizhuwang_Bone23
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.71024597, y: 0.061932214, z: 0.70076776, w: 0.025291797}
+        inSlope: {x: -2.9411852, y: 5.5301623, z: -0.8654202, w: 0.34054863}
+        outSlope: {x: -2.9411852, y: 5.5301623, z: -0.8654202, w: 0.34054863}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.7224825, y: -0.044952206, z: 0.6766659, w: 0.13461645}
+        inSlope: {x: 0.008819997, y: -1.1800511, z: -0.055442154, w: 1.1353047}
+        outSlope: {x: 0.008819997, y: -1.1800511, z: -0.055442154, w: 1.1353047}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.70965797, y: -0.016737854, z: 0.6970716, w: 0.10097878}
+        inSlope: {x: 0.36434773, y: 0.8594633, z: 0.53757733, w: -0.98957276}
+        outSlope: {x: 0.36434773, y: 0.8594633, z: 0.53757733, w: -0.98957276}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.69819266, y: 0.012345343, z: 0.7125044, w: 0.06864493}
+        inSlope: {x: 0.17197968, y: 0.43624797, z: 0.23149164, w: -0.48500767}
+        outSlope: {x: 0.17197968, y: 0.43624797, z: 0.23149164, w: -0.48500767}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000011974842, y: -0.00000026324682, z: 0.5160424, w: 0.85656303}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.00000011974842, y: -0.00000026324682, z: 0.5160424, w: 0.85656303}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000000024642109, y: 0.00000003594768, z: 0.8248115, w: -0.56540775}
+        inSlope: {x: -0.00000004597853, y: -0.000000025050365, z: -0.67805356, w: -0.95243907}
+        outSlope: {x: -0.00000004597853, y: -0.000000025050365, z: -0.67805356, w: -0.95243907}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.000000027306692, y: 0.000000035354937, z: 0.7914261, w: -0.6112648}
+        inSlope: {x: -0.000000019999895, y: -0.0000000108369855, z: -0.29961175, w: -0.42131427}
+        outSlope: {x: -0.000000019999895, y: -0.0000000108369855, z: -0.29961175, w: -0.42131427}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.000000025975435, y: 0.000000035225213, z: 0.8048374, w: -0.59349537}
+        inSlope: {x: -5.6251004e-10, y: 0.000000046125134, z: 0.35049948, w: 0.47268754}
+        outSlope: {x: -5.6251004e-10, y: 0.000000046125134, z: 0.35049948, w: 0.47268754}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.000000027344193, y: 0.000000038429945, z: 0.81479275, w: -0.5797523}
+        inSlope: {x: -0.000000020531365, y: 0.00000004807099, z: 0.14933021, w: 0.20614566}
+        outSlope: {x: -0.000000020531365, y: 0.00000004807099, z: 0.14933021, w: 0.20614566}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25/Zhizhuwang_Bone26
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000023841858, y: -5.684342e-14, z: 0.00000023841858, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.00000023841858, y: -5.684342e-14, z: 0.00000023841858, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25/Zhizhuwang_Bone26/Zhizhuwang_Bone27
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.44591242, y: 0.0071009467, z: 0.89052856, w: 0.08983629}
+        inSlope: {x: -2.471167, y: 0.79510844, z: -0.59254295, w: -1.6564406}
+        outSlope: {x: -2.471167, y: 0.79510844, z: -0.59254295, w: -1.6564406}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.4815, y: -0.04318415, z: 0.8535266, w: 0.19438457}
+        inSlope: {x: -0.34511316, y: -0.32356364, z: -0.26360306, w: 0.65675485}
+        outSlope: {x: -0.34511316, y: -0.32356364, z: -0.26360306, w: 0.65675485}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.46891996, y: -0.01446996, z: 0.872955, w: 0.13361995}
+        inSlope: {x: 0.34102413, y: 0.8726127, z: 0.4747734, w: -1.7763984}
+        outSlope: {x: 0.34102413, y: 0.8726127, z: 0.4747734, w: -1.7763984}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.45876506, y: 0.014990027, z: 0.88517815, w: 0.07595802}
+        inSlope: {x: 0.15232356, y: 0.44189984, z: 0.18334688, w: -0.86492896}
+        outSlope: {x: 0.15232356, y: 0.44189984, z: 0.18334688, w: -0.86492896}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000018669355, y: -0.00000018752979, z: 0.52802706, w: 0.84922755}
+        inSlope: {x: 0.00000074693196, y: 0.0000003653709, z: 2.1083174, w: -1.0885987}
+        outSlope: {x: 0.00000074693196, y: 0.0000003653709, z: 2.1083174, w: -1.0885987}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.00000020174012, y: -0.0000001975975, z: 0.52762747, w: 0.84947586}
+        inSlope: {x: -0.00000028538517, y: -0.0000005667759, z: -0.0120824585, w: 0.0075048213}
+        outSlope: {x: -0.00000028538517, y: -0.0000005667759, z: -0.0120824585, w: 0.0075048213}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.0000001965126, y: -0.00000019331368, z: 0.52700514, w: 0.8498621}
+        inSlope: {x: 0.00000043267087, y: 0.00000048001755, z: -0.0032463672, w: 0.0020134451}
+        outSlope: {x: 0.00000043267087, y: 0.00000048001755, z: -0.0032463672, w: 0.0020134451}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000022004576, y: -0.00000012430884, z: 0.7528478, w: -0.65819466}
+        inSlope: {x: -0.00000064407857, y: -0.0000018816003, z: 7.5391808, w: 4.9402127}
+        outSlope: {x: -0.00000064407857, y: -0.0000018816003, z: 7.5391808, w: 4.9402127}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.00000019925368, y: -0.00000014503958, z: 0.7740671, w: -0.6331036}
+        inSlope: {x: -0.00000027169477, y: -0.00000029911754, z: 0.470717, w: 0.5658469}
+        outSlope: {x: -0.00000027169477, y: -0.00000029911754, z: 0.470717, w: 0.5658469}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.00000020179982, y: -0.00000014511791, z: 0.789559, w: -0.61367464}
+        inSlope: {x: -0.0000000019943516, y: -0.000000013018494, z: 0.079951294, w: 0.101953454}
+        outSlope: {x: -0.0000000019943516, y: -0.000000013018494, z: 0.079951294, w: 0.101953454}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29/Zhizhuwang_Bone30
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000063562666, y: -0.0000008101341, z: 5.1494287e-14, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.000000063562666, y: -0.0000008101341, z: 5.1494287e-14, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29/Zhizhuwang_Bone30/Zhizhuwang_Bone31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -0, z: -0.079671435, w: 0.99682117}
+        inSlope: {x: 0, y: 0, z: 0.50893784, w: 0.009748936}
+        outSlope: {x: 0, y: 0, z: 0.50893784, w: 0.009748936}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0, y: -0, z: -0.002185723, w: 0.9999976}
+        inSlope: {x: 0, y: 0, z: 2.3247676, w: 0.005081892}
+        outSlope: {x: 0, y: 0, z: 2.3247676, w: 0.005081892}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0, y: 0, z: 0.075313054, w: 0.99715996}
+        inSlope: {x: 0, y: 0, z: 0.14544237, w: -0.00038713217}
+        outSlope: {x: 0, y: 0, z: 0.14544237, w: -0.00038713217}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0, y: -0, z: 0.0075104297, w: 0.9999718}
+        inSlope: {x: 0, y: 0, z: -1.0170394, w: 0.04217774}
+        outSlope: {x: 0, y: 0, z: -1.0170394, w: 0.04217774}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0.15496026, w: 0.9879207}
+        inSlope: {x: 0, y: 0, z: -0.95620847, w: 0.15949757}
+        outSlope: {x: 0, y: 0, z: -0.95620847, w: 0.15949757}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0, y: 0, z: 0.13256863, w: 0.99117386}
+        inSlope: {x: 0, y: 0, z: 0.9523559, w: -0.18109025}
+        outSlope: {x: 0, y: 0, z: 0.9523559, w: -0.18109025}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0, y: 0, z: 0.21845065, w: 0.975848}
+        inSlope: {x: 0, y: 0, z: 1.2882304, w: -0.22988768}
+        outSlope: {x: 0, y: 0, z: 1.2882304, w: -0.22988768}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0, y: 0, z: 0.21845065, w: 0.975848}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone32/Zhizhuwang_Bone34
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000004218981, y: 0.0000007978336, z: 0.9986048, w: 0.052806683}
+        inSlope: {x: 0.0000036410752, y: -0.00000019254061, z: -0.24099293, w: 4.5573344}
+        outSlope: {x: 0.0000036410752, y: -0.00000019254061, z: -0.24099293, w: 4.5573344}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: 0.00000016306795, y: 0.00000078213003, z: 0.9789494, w: 0.20410325}
+        inSlope: {x: 0.0000010406286, y: -0.00000010069641, z: -0.12603612, w: 1.3024981}
+        outSlope: {x: 0.0000010406286, y: -0.00000010069641, z: -0.12603612, w: 1.3024981}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: 0.00000011156504, y: 0.0000007911205, z: 0.99020237, w: 0.13963988}
+        inSlope: {x: -0.000001552253, y: 0.00000021890034, z: 0.2739859, w: -1.9428703}
+        outSlope: {x: -0.000001552253, y: 0.00000021890034, z: 0.2739859, w: -1.9428703}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.00000005958442, y: 0.0000007967234, z: 0.99721515, w: 0.07457857}
+        inSlope: {x: -0.0000007797094, y: 0.000000084043286, z: 0.105191775, w: -0.9759198}
+        outSlope: {x: -0.0000007797094, y: 0.000000084043286, z: 0.105191775, w: -0.9759198}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone36
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000042665913, y: -0.000004627317, z: 0.10189807, w: 0.99479485}
+        inSlope: {x: 0.00077025, y: 0.00012739691, z: -2.8112442, w: 0.12396546}
+        outSlope: {x: 0.00077025, y: 0.00012739691, z: -2.8112442, w: 0.12396546}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.0000081195685, y: -0.000000065042656, z: -0.049848888, w: 0.99875677}
+        inSlope: {x: 0.00026106657, y: 0.000083029256, z: -2.377531, w: 0.054028634}
+        outSlope: {x: 0.00026106657, y: 0.000083029256, z: -2.377531, w: 0.054028634}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.000025261477, y: 0.0000009079663, z: -0.056603983, w: 0.99839675}
+        inSlope: {x: -0.00039536314, y: 0.000019825606, z: 0.20135751, w: 0.008694828}
+        outSlope: {x: -0.00039536314, y: 0.000019825606, z: 0.20135751, w: 0.008694828}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.00003447711, y: 0.0000012566644, z: -0.036425054, w: 0.9993364}
+        inSlope: {x: -0.0001382345, y: 0.0000052304717, z: 0.30268395, w: 0.014095009}
+        outSlope: {x: -0.0001382345, y: 0.0000052304717, z: 0.30268395, w: 0.014095009}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone36/Zhizhuwang_Bone37
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.023727, y: 0.86220896, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.023727, y: 0.86220896, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.105776, y: -0.20544277, z: 0.00000002309282}
+        inSlope: {x: -0, y: -38.977158, z: 0.000005111238}
+        outSlope: {x: -0, y: 13.502225, z: -0.0000017706033}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.105776, y: 0.24463136, z: -0.000000035927286}
+        inSlope: {x: -0, y: 13.502225, z: -0.0000017706033}
+        outSlope: {x: -0, y: -4.1096005, z: 0.0000005389093}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.105776, y: -0.029342, z: 0}
+        inSlope: {x: -0, y: -4.109601, z: 0.0000005389093}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.800439, y: -0.197518, z: 0.248934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.800439, y: -0.197518, z: 0.248934}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.262326, y: -0.000000029802322, z: 0.000000059604645}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.262326, y: -0.000000029802322, z: 0.000000059604645}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02/Zhizhuwang_Bone03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.40676546, y: -0.00000008940697, z: 0.000000059604645}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.40676546, y: -0.00000008940697, z: 0.000000059604645}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02/Zhizhuwang_Bone03/Zhizhuwang_Bone04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.7999565, y: -0.18932962, z: -0.25322694}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.7999565, y: -0.18932962, z: -0.25322694}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.262326, y: 0.000000009747964, z: -0.00000003231372}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.262326, y: 0.000000009747964, z: -0.00000003231372}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05/Zhizhuwang_Bone06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.40676558, y: -0.000000056461438, z: -6.3936745e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.40676558, y: -0.000000056461438, z: -6.3936745e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05/Zhizhuwang_Bone06/Zhizhuwang_Bone07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.22166052, y: -0.4070042, z: -0.40562218}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.22166052, y: -0.4070042, z: -0.40562218}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.35479993, y: -0.000000014901161, z: -0.000000044703484}
+        inSlope: {x: 0.000010345659, y: -0.00000089387146, z: -1.3840797e-10}
+        outSlope: {x: -0.0000045980732, y: -0.00000089429335, z: 6.312713e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.35479987, y: -0.000000059604645, z: -0.000000039115548}
+        inSlope: {x: -0.0000045980732, y: -4.4325182e-10, z: 6.2112065e-11}
+        outSlope: {x: -0.0000023416105, y: 0.0000000013450626, z: -6.223895e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.35480002, y: 0.000000059604645, z: -0.000000044703484}
+        inSlope: {x: -0.0000065990853, y: 0.0000000013313592, z: -6.173142e-11}
+        outSlope: {x: -0.0000028525078, y: -3.359167e-10, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.35480008, y: 0.000000029802322, z: -0.000000044703484}
+        inSlope: {x: 0.000001404967, y: -3.3287154e-10, z: -0}
+        outSlope: {x: -6.9388943e-15, y: 4.1359033e-22, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.9196863, y: 0, z: -0.0000000037252903}
+        inSlope: {x: 0.0000034911295, y: -0.000004023369, z: -2.4472238e-11}
+        outSlope: {x: -6.9388943e-15, y: -0.0000040237323, z: 1.8930084e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.9196863, y: -0.00000014901161, z: 0.000000013038516}
+        inSlope: {x: -2.973812e-15, y: -0.0000000014157876, z: 1.8684547e-10}
+        outSlope: {x: -0.0000045980732, y: 0.0000000036978753, z: -1.0294067e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.91968626, y: 0.00000017881393, z: 0.000000011175871}
+        inSlope: {x: -0.0000045980732, y: 0.0000000036613332, z: -0.00000016760589}
+        outSlope: {x: 0.000007408007, y: -0.0000000033585328, z: -0.00000016787936}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.91968644, y: -0.00000011920929, z: -0.000000014901161}
+        inSlope: {x: -0.0000011069422, y: -0.0000000033306187, z: -2.8116456e-10}
+        outSlope: {x: -6.9388943e-15, y: -1.6543613e-21, z: -2.0679517e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09/Zhizhuwang_Bone10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.4690478, y: -0.00000011920929, z: -0.0000000037252903}
+        inSlope: {x: 0.000009196143, y: -0.0000053653744, z: -0.0000000013677971}
+        outSlope: {x: -0.000018392293, y: -0.0000053637377, z: 1.261472e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -1.4690475, y: -0.00000023841858, z: 0.000000007450581}
+        inSlope: {x: -0.000018392293, y: -0.0000053637236, z: 1.2445014e-10}
+        outSlope: {x: 0.000020606178, y: -0.0000053654185, z: -4.8706594e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.4690474, y: -0.00000047683716, z: 0}
+        inSlope: {x: 0.000003576279, y: -0.000000002327147, z: -0.00000055870044}
+        outSlope: {x: 0.000020606178, y: 0.0000000026873337, z: -0.0000005589541}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.4690473, y: -0.00000023841858, z: -0.000000029802322}
+        inSlope: {x: 0.000003576279, y: 0.0000000026629723, z: -2.990105e-10}
+        outSlope: {x: -1.3877789e-14, y: -3.3087227e-21, z: -4.1359033e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09/Zhizhuwang_Bone10/Zhizhuwang_Bone11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.078115106, y: -0.44418576, z: -0.41307876}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.078115106, y: -0.44418576, z: -0.41307876}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.4102807, y: 0, z: -0.000000018626451}
+        inSlope: {x: 0.0000014475402, y: 0.0000017882379, z: 0.0000000011181436}
+        outSlope: {x: 0.00000600304, y: 0.0000017882503, z: -4.1359033e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.41028082, y: 0.000000059604645, z: -0.000000018626451}
+        inSlope: {x: 0.0000017455656, y: 5.541396e-10, z: -1.7725301e-22}
+        outSlope: {x: -0.0000022990366, y: -6.734195e-10, z: -6.727216e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.4102808, y: 0, z: -0.000000078231096}
+        inSlope: {x: -0.0000022990366, y: -6.6606026e-10, z: -6.661237e-10}
+        outSlope: {x: -6.9388943e-15, y: 3.3610706e-10, z: 9.65824e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.4102808, y: 0.000000029802322, z: 0.000000007450581}
+        inSlope: {x: -2.973812e-15, y: 3.3331563e-10, z: 9.575767e-10}
+        outSlope: {x: -6.9388943e-15, y: 4.1359033e-22, z: 1.0339758e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.88172114, y: -0.00000011920929, z: 0.00000008568168}
+        inSlope: {x: 0.000005705013, y: -0.000000001327235, z: 0.0000048629086}
+        outSlope: {x: 0.0000057050156, y: 0.0000000014268898, z: 0.000004860651}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.881721, y: 0.000000029802322, z: 0.00000014528632}
+        inSlope: {x: -0.000002809934, y: 0.000004023704, z: 3.679675e-10}
+        outSlope: {x: -0.00000008514785, y: 0.0000040233945, z: -0.0000000019339637}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.8817214, y: 0.00000014901161, z: -0.000000026077032}
+        inSlope: {x: -0.000008600097, y: 0.0000000010849461, z: -0.0000000019137893}
+        outSlope: {x: -0.0000091961465, y: -0.0000000010059739, z: 6.3025624e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.88172126, y: 0.000000059604645, z: 0.000000029802322}
+        inSlope: {x: -0.0000091961465, y: -9.978534e-10, z: 6.2467337e-10}
+        outSlope: {x: -1.3877789e-14, y: 8.2718066e-22, z: 4.1359033e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13/Zhizhuwang_Bone14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.4540684, y: -0.00000011920929, z: 0.00000012852252}
+        inSlope: {x: 0.00001362391, y: 0.0000000013274253, z: 0.000006035156}
+        outSlope: {x: 0.0000091961465, y: -0.0000000026919016, z: 0.0000060354228}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -1.4540685, y: -0.00000035762787, z: 0.0000003427267}
+        inSlope: {x: 0.0000091961465, y: -0.0000000026533293, z: 0.0000010075208}
+        outSlope: {x: -0.0000022138845, y: 0.0000000034704457, z: 0.0000010056397}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.4540689, y: 0, z: 0.00000035390258}
+        inSlope: {x: 0.000014816014, y: 0.000008941869, z: 5.929019e-11}
+        outSlope: {x: 0.0000057901634, y: 0.000008940574, z: -0.0000000017249673}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.4540684, y: 0.00000023841858, z: 0.00000020116568}
+        inSlope: {x: 0.0000057901634, y: 0.0000000021161208, z: -0.0000000017066962}
+        outSlope: {x: -4.1633367e-14, y: 3.3087227e-21, z: 1.6543613e-21}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13/Zhizhuwang_Bone14/Zhizhuwang_Bone15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.50108063, y: -0.3723474, z: -0.406256}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.50108063, y: -0.3723474, z: -0.406256}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.35479993, y: 0, z: 0.00000005029142}
+        inSlope: {x: -4.460716e-15, y: -0, z: 0.000000001222721}
+        outSlope: {x: -0.0000045980732, y: 6.73134e-10, z: -0.0000000011147384}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.35479987, y: 0.000000059604645, z: -0.000000048428774}
+        inSlope: {x: -0.0000045980732, y: 6.641253e-10, z: -0.0000000010995125}
+        outSlope: {x: 0.0000045980732, y: -0.0000000013450626, z: 0.0000000016396559}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.35479993, y: -0.000000059604645, z: 0.00000009685755}
+        inSlope: {x: 0.0000045980732, y: -0.0000000013313592, z: 0.0000000016229074}
+        outSlope: {x: 0.0000045980732, y: 0.0000000010071475, z: -0.0000000014268848}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.3548, y: 0.000000029802322, z: -0.000000029802322}
+        inSlope: {x: 0.0000045980732, y: 9.989001e-10, z: -0.0000000014154653}
+        outSlope: {x: -0.0000037040036, y: -3.355678e-10, z: 3.355678e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.9196863, y: 0.000000059604645, z: -0.000000070780516}
+        inSlope: {x: -0.000009196143, y: 0.0000000011631923, z: -7.879367e-10}
+        outSlope: {x: 0.000020606178, y: 8.2718066e-22, z: 6.089601e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.9196862, y: 0.000000059604645, z: -0.000000016763806}
+        inSlope: {x: 0.000003576279, y: 3.5450601e-22, z: 6.008396e-10}
+        outSlope: {x: -0.000016689302, y: -2.2279069e-10, z: -0.0000000011558081}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.91968626, y: 0.000000029802322, z: -0.00000011920929}
+        inSlope: {x: -0.000016689302, y: -0.0000017879078, z: -0.0000000011436274}
+        outSlope: {x: -0.000007493155, y: -0.0000017885851, z: 8.3966495e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.91968644, y: -0.000000059604645, z: -0.000000044703484}
+        inSlope: {x: -0.000007493155, y: -8.88736e-10, z: 8.3357454e-10}
+        outSlope: {x: -6.9388943e-15, y: -8.2718066e-22, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17/Zhizhuwang_Bone18
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.4840605, y: 0.00000011920929, z: 0.000000461936}
+        inSlope: {x: -0.000009196143, y: -9.971829e-10, z: 0.0000000018243217}
+        outSlope: {x: -0.000011410031, y: 0.000000004039121, z: -0.000000001754247}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -1.4840608, y: 0.00000047683716, z: 0.00000030640513}
+        inSlope: {x: 0.000005619868, y: 0.000000003986338, z: -0.0000000017298856}
+        outSlope: {x: 0.0000057901634, y: -0.0000000026873337, z: 0.0000000019276614}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.4840603, y: 0.00000023841858, z: 0.00000047683716}
+        inSlope: {x: 0.0000057901634, y: -0.0000000026629723, z: 0.00000000190736}
+        outSlope: {x: -0.000011410031, y: 0.0000000026873337, z: -0.0000000026873337}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.4840605, y: 0.00000047683716, z: 0.00000023841858}
+        inSlope: {x: 0.000005619868, y: 0.0000000026629723, z: -0.0000000026629723}
+        outSlope: {x: 0.000011410031, y: -0.0000000040254178, z: 0.0000000025169646}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17/Zhizhuwang_Bone18/Zhizhuwang_Bone19
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.50108075, y: -0.3723474, z: 0.40599987}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.50108075, y: -0.3723474, z: 0.40599987}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.35479987, y: 0, z: -0.000000034458935}
+        inSlope: {x: -1.3877783e-14, y: -0, z: -0.0000000010470013}
+        outSlope: {x: -0.00000600304, y: 0.0000000020186723, z: 4.4489197e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.35479975, y: 0.00000017881393, z: -0.000000029802322}
+        inSlope: {x: -0.0000017455656, y: 0.0000000019927884, z: 0.00000012574051}
+        outSlope: {x: 0.0000017029917, y: -0.0000000020182918, z: 0.00000012571662}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.35480005, y: 0, z: -0.000000026077032}
+        inSlope: {x: 0.0000017029917, y: -0.0000000019969755, z: 0.00000022348046}
+        outSlope: {x: 0.0000014475409, y: -0, z: 0.00000022357331}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.35479993, y: 0, z: -0.000000014901161}
+        inSlope: {x: 0.0000014475409, y: -0, z: 1.11161885e-10}
+        outSlope: {x: -1.0408342e-14, y: -0, z: -2.0679517e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.91968584, y: -0.00000059604645, z: 0.0000005736947}
+        inSlope: {x: 0.000009196143, y: -5.6720938e-21, z: 0.0000000017340618}
+        outSlope: {x: 0.000003491131, y: -0.0000000020119477, z: -0.0000000016219024}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.9196861, y: -0.0000007748604, z: 0.0000004293397}
+        inSlope: {x: 0.00001200608, y: -0.0000000019957067, z: -0.0000000016016012}
+        outSlope: {x: 0.0000045980732, y: 0.0000000011762618, z: 4.3184703e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.91968614, y: -0.0000006556511, z: 0.00000047311187}
+        inSlope: {x: 0.0000045980732, y: 0.0000026826915, z: 0.0000010478977}
+        outSlope: {x: -0.0000045980732, y: 0.0000026820467, z: 0.0000010477047}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.9196861, y: -0.00000059604645, z: 0.0000004991889}
+        inSlope: {x: -0.0000045980732, y: 4.9884546e-10, z: 2.266154e-10}
+        outSlope: {x: -1.3877789e-14, y: -1.3234891e-20, z: 3.3087227e-21}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21/Zhizhuwang_Bone22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.48406, y: -0.00000035762787, z: 0.00000012293458}
+        inSlope: {x: -0.0000035762773, y: -0.0000000011072637, z: -0.0000000032734333}
+        outSlope: {x: -1.784287e-14, y: 0.0000000013406217, z: 0.000000001323132}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -1.48406, y: -0.00000023841858, z: 0.00000024028122}
+        inSlope: {x: 3.7668284e-14, y: 0.0000000013243807, z: 0.000000001306891}
+        outSlope: {x: -1.784287e-14, y: -0.0000000013436668, z: -4.403673e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.48406, y: -0.00000035762787, z: 0.00000020116568}
+        inSlope: {x: 3.7668284e-14, y: -0.0000000013314861, z: -4.3630707e-10}
+        outSlope: {x: -0.000011410031, y: 0.0000000013436668, z: 0.0000000026072244}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.4840603, y: -0.00000023841858, z: 0.00000043213367}
+        inSlope: {x: 0.000005619868, y: 0.0000000013314861, z: 0.000000002582863}
+        outSlope: {x: -0.000011410031, y: -3.3087227e-21, z: -7.594272e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21/Zhizhuwang_Bone22/Zhizhuwang_Bone23
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.22166061, y: -0.40700406, z: 0.407}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.22166061, y: -0.40700406, z: 0.407}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.35479972, y: 0.000000059604645, z: -0.00000008568168}
+        inSlope: {x: 0.0000005534709, y: 0.000001788238, z: -0.00000050304527}
+        outSlope: {x: 0.0000022990366, y: 0.0000017882508, z: -0.00000050284143}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.35479975, y: 0.00000011920929, z: -0.00000009313226}
+        inSlope: {x: 0.0000022990366, y: 5.536321e-10, z: -5.3225126e-11}
+        outSlope: {x: -0.0000051515444, y: 1.6543613e-21, z: 8.264691e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.35479978, y: 0.00000011920929, z: -0.00000008568168}
+        inSlope: {x: -0.00000089406973, y: 7.0901203e-22, z: 8.264691e-11}
+        outSlope: {x: 0.00000689711, y: -6.718334e-10, z: -4.2592284e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.35479987, y: 0.000000059604645, z: -0.00000008940697}
+        inSlope: {x: 0.00000689711, y: -6.6574307e-10, z: -4.2592284e-11}
+        outSlope: {x: -5.947624e-15, y: 8.2718066e-22, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.9196862, y: 0, z: 0}
+        inSlope: {x: 0.000007408004, y: -0.0000000011635095, z: 3.3144396e-10}
+        outSlope: {x: -0.0000011069424, y: 0.0000000011185568, z: -8.414175e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.9196864, y: 0.00000011920929, z: -0.000000007450581}
+        inSlope: {x: 0.000007408007, y: 0.0000035764788, z: -8.3015664e-11}
+        outSlope: {x: -0.0000045980732, y: 0.0000035764995, z: 4.198959e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.9196863, y: 0.00000023841858, z: -0.0000000037252903}
+        inSlope: {x: -0.0000045980732, y: 0.0000000011092943, z: 4.1608942e-11}
+        outSlope: {x: -0.000012091228, y: -0.000000002688095, z: -1.2596878e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.91968644, y: 0, z: -0.000000014901161}
+        inSlope: {x: -0.000012091228, y: -0.0000000026647486, z: -1.2482683e-10}
+        outSlope: {x: -6.9388943e-15, y: -0, z: -2.0679517e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25/Zhizhuwang_Bone26
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.4690478, y: -0.00000011920929, z: 0.00000019744039}
+        inSlope: {x: 0.000005619865, y: -7.090117e-22, z: -0.00000016771074}
+        outSlope: {x: -0, y: 0.0000000026908864, z: -0.00000016760661}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -1.4690478, y: 0.00000011920929, z: 0.00000019557774}
+        inSlope: {x: -0, y: 0.0000000026543443, z: -9.881699e-12}
+        outSlope: {x: -0.000018392293, y: 1.6543613e-21, z: 9.202191e-11}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.4690475, y: 0.00000011920929, z: 0.00000020489097}
+        inSlope: {x: -0.000018392293, y: 7.0901203e-22, z: 0.00000019561918}
+        outSlope: {x: -0.000011410031, y: -0.000000004032523, z: 0.00000019555657}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.4690478, y: -0.00000023841858, z: 0.00000020861626}
+        inSlope: {x: 0.000005619868, y: -0.0000000039980113, z: 2.9402314e-11}
+        outSlope: {x: -0, y: -3.3087227e-21, z: 1.6543613e-21}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25/Zhizhuwang_Bone26/Zhizhuwang_Bone27
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.078115195, y: -0.44418573, z: 0.399}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.078115195, y: -0.44418573, z: 0.399}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.4102807, y: 0.000000029802322, z: -0.00000014156103}
+        inSlope: {x: -4.460716e-15, y: 3.3180875e-10, z: -0.0000000015758734}
+        outSlope: {x: 0.0000037040036, y: -3.3663045e-10, z: 8.419488e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.4102808, y: 0, z: -0.000000067055225}
+        inSlope: {x: -0.0000005534712, y: -3.3199923e-10, z: 8.28753e-10}
+        outSlope: {x: -6.9388943e-15, y: -0, z: -5.0298693e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.4102808, y: 0, z: -0.00000011175871}
+        inSlope: {x: -2.973812e-15, y: -0, z: -4.989267e-10}
+        outSlope: {x: 0.0000014475409, y: -3.3610706e-10, z: 3.3667802e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.41028067, y: -0.000000029802322, z: -0.00000008195639}
+        inSlope: {x: 0.0000014475409, y: -3.3331563e-10, z: 3.346479e-10}
+        outSlope: {x: -1.0408342e-14, y: -4.1359033e-22, z: -8.2718066e-22}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.8817211, y: -0.00000011920929, z: 0.00000051409006}
+        inSlope: {x: 0.0000075782996, y: -7.090117e-22, z: -0.0000046932937}
+        outSlope: {x: -0.000010303089, y: -0.0000000013441744, z: -0.0000046950036}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -0.88172114, y: -0.00000023841858, z: 0.00000028312206}
+        inSlope: {x: -0.0000017881395, y: -0.0000000013259033, z: -0.0000000022866051}
+        outSlope: {x: 0.0000091961465, y: 0.0000000020182918, z: 0.0000000024594204}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -0.88172126, y: -0.000000059604645, z: 0.00000050105155}
+        inSlope: {x: 0.0000091961465, y: 0.0000000019969755, z: 0.0000000024350588}
+        outSlope: {x: -1.3877789e-14, y: -6.718334e-10, z: -0.0000000011989079}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.88172126, y: -0.00000011920929, z: 0.00000039488077}
+        inSlope: {x: -5.947624e-15, y: -6.6574307e-10, z: -0.0000000011907875}
+        outSlope: {x: -1.3877789e-14, y: -1.6543613e-21, z: 6.6174453e-21}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29/Zhizhuwang_Bone30
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.4540687, y: 0.00000023841858, z: -0.00000013411045}
+        inSlope: {x: -1.7842864e-14, y: 1.4180234e-21, z: -0.0000013408498}
+        outSlope: {x: -4.1633367e-14, y: 3.3087227e-21, z: -0.000001342158}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333333
+        value: {x: -1.4540687, y: 0.00000023841858, z: -0.0000002644956}
+        inSlope: {x: -1.7842873e-14, y: 1.4180241e-21, z: -0.0000000013740379}
+        outSlope: {x: -4.1633367e-14, y: -0.0000000040365835, z: 0.0000000017650219}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666666
+        value: {x: -1.4540687, y: -0.00000011920929, z: -0.00000010803342}
+        inSlope: {x: -1.7842873e-14, y: -0.000000003993951, z: 0.0000000017467509}
+        outSlope: {x: -4.1633367e-14, y: 0.000000002688095, z: -7.9707263e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.4540687, y: 0.00000011920929, z: -0.00000017881393}
+        inSlope: {x: -1.7842873e-14, y: 0.0000000026647486, z: -7.909823e-10}
+        outSlope: {x: -4.1633367e-14, y: 1.6543613e-21, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29/Zhizhuwang_Bone30/Zhizhuwang_Bone31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.024936, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -1.024936, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.058172, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.058172, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone32/Zhizhuwang_Bone34
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.11578, y: -0.020792, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.11578, y: -0.020792, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone36
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.64747, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: -0.64747, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone36/Zhizhuwang_Bone37
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 0.9999998, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 0.9999998, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02/Zhizhuwang_Bone03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone02/Zhizhuwang_Bone03/Zhizhuwang_Bone04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05/Zhizhuwang_Bone06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone05/Zhizhuwang_Bone06/Zhizhuwang_Bone07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1.0000002, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1.0000002, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09/Zhizhuwang_Bone10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999999, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone08/Zhizhuwang_Bone09/Zhizhuwang_Bone10/Zhizhuwang_Bone11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000002, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999998, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999998, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13/Zhizhuwang_Bone14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999998, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999998, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone12/Zhizhuwang_Bone13/Zhizhuwang_Bone14/Zhizhuwang_Bone15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 0.99999976, z: 1.0000005}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000002, y: 0.99999976, z: 1.0000005}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999998, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999998, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17/Zhizhuwang_Bone18
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 0.9999999, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 0.9999999, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone16/Zhizhuwang_Bone17/Zhizhuwang_Bone18/Zhizhuwang_Bone19
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 0.9999998, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000002, y: 0.9999998, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 1, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 0.99999964, z: 0.9999996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.99999994, y: 0.99999964, z: 0.9999996}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21/Zhizhuwang_Bone22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone20/Zhizhuwang_Bone21/Zhizhuwang_Bone22/Zhizhuwang_Bone23
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999996, y: 0.99999994, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999996, y: 0.99999994, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999997, y: 1, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999997, y: 1, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25/Zhizhuwang_Bone26
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone24/Zhizhuwang_Bone25/Zhizhuwang_Bone26/Zhizhuwang_Bone27
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999997, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.9999997, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999976, y: 1.0000002, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 0.99999976, y: 1.0000002, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29/Zhizhuwang_Bone30
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1.0000002, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone28/Zhizhuwang_Bone29/Zhizhuwang_Bone30/Zhizhuwang_Bone31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone32/Zhizhuwang_Bone34
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone36
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.099999994
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Zhizhuwang_BoneAll/Orign/Zhizhuwang_K_All/Zhizhuwang_Bone01/Zhizhuwang_Bone36/Zhizhuwang_Bone37
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
